@@ -36,10 +36,6 @@ function PayGapByJob2017() {
   };
 
   this.draw = function() {
-    if (!this.loaded) {
-      console.log('Data not yet loaded');
-      return;
-    }
 
     // Draw the axes.
     this.addAxes();

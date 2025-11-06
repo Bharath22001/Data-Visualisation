@@ -80,10 +80,6 @@ function PayGapTimeSeries() {
   };
 
   this.draw = function() {
-    if (!this.loaded) {
-      console.log('Data not yet loaded');
-      return;
-    }
 
     // Draw the title above the plot.
     this.drawTitle();

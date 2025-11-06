@@ -100,10 +100,6 @@ function ClimateChange() {
   };
 
   this.draw = function() {
-    if (!this.loaded) {
-      console.log('Data not yet loaded');
-      return;
-    }
 
     // Prevent slider ranges overlapping.
     if (this.startSlider.value() >= this.endSlider.value()) {

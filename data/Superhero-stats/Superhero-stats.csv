@@ -1,0 +1,666 @@
+ID,Name,Intelligence,Strength,Speed,Durability,Power,Combat,Full name,Alignment,Gender,Height,Weight,Eye color,Hair color
+0,3-D Man,80,35,45,35,25,55,Charles Chandler,good,Male,6'2 // 188 cm,200 lb // 90 kg,Brown,Grey
+1,A-Bomb,75,100,20,80,25,65,Richard Milhouse Jones,good,Male,6'8 // 203 cm,980 lb // 441 kg,Yellow,No Hair
+2,Abe Sapien,95,30,35,65,100,85,Abraham Sapien,good,Male,6'3 // 191 cm,145 lb // 65 kg,Blue,No Hair
+3,Abin Sur,80,90,55,65,100,65,-,good,Male,6'1 // 185 cm,200 lb // 90 kg,Blue,No Hair
+4,Abomination,85,80,55,90,65,95,Emil Blonsky,bad,Male,6'8 // 203 cm,980 lb // 441 kg,Green,No Hair
+5,Abraxas,100,100,85,100,100,55,Abraxas,bad,Male,- // 0 cm,- lb // 0 kg,Blue,Black
+6,Absorbing Man,75,80,25,100,100,65,Carl Creel,bad,Male,6'4 // 193 cm,270 lb // 122 kg,Blue,No Hair
+7,Adam Monroe,85,10,15,100,100,65,-,good,Male,- // 0 cm,- lb // 0 kg,Blue,Blond
+8,Adam Strange,85,10,35,40,40,50,Adam Strange,good,Male,6'1 // 185 cm,195 lb // 88 kg,Blue,Blond
+9,Agent 13,80,40,45,50,45,85,Sharon Carter,good,Female,5'8 // 173 cm,135 lb // 61 kg,Blue,Blond
+10,Agent Bob,60,10,15,5,5,20,Bob,good,Male,5'10 // 178 cm,181 lb // 81 kg,Brown,Brown
+11,Agent Zero,90,30,40,80,75,95,Christoph Nord,good,Male,6'3 // 191 cm,230 lb // 104 kg,-,-
+12,Air-Walker,80,85,100,85,100,40,Gabriel Lan,bad,Male,6'2 // 188 cm,240 lb // 108 kg,Blue,White
+13,Ajax,80,50,35,80,35,55,Francis,bad,Male,6'4 // 193 cm,200 lb // 90 kg,Brown,Black
+14,Alex Mercer,80,80,45,90,100,50,Alexander J. Mercer,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+15,Alex Woolsly,55,35,40,45,35,40,Alex Woolsly,good,Male,- // 0 cm,- lb // 0 kg,-,-
+16,Alfred Pennyworth,85,10,20,10,10,55,Alfred Thaddeus Crane Pennyworth,good,Male,5'10 // 178 cm,160 lb // 72 kg,Blue,Black
+17,Alien,80,30,45,90,60,60,Xenomorph,bad,Male,8'0 // 244 cm,375 lb // 169 kg,-,No Hair
+19,Amazo,85,100,85,100,100,100,-,bad,Male,8'5 // 257 cm,385 lb // 173 kg,Red,-
+20,Ammo,35,45,35,35,25,70,-,bad,Male,6'2 // 188 cm,225 lb // 101 kg,Brown,Black
+21,Ando Masahashi,35,25,30,60,65,30,Ando Masahashi,good,Male,- // 0 cm,- lb // 0 kg,-,-
+22,Angel,85,15,50,65,30,45,Warren Kenneth Worthington III,good,Male,6'0 // 183 cm,150 lb // 68 kg,Blue,Blond
+23,Angel,90,30,60,90,100,75,Liam,good,Male,- // 0 cm,- lb // 0 kg,-,-
+24,Angel Dust,75,55,25,45,20,30,Christina,good,Female,5'5 // 165 cm,126 lb // 57 kg,Yellow,Black
+25,Angel Salvadore,75,10,30,30,60,60,Angel Salvadore Bohusk,good,Female,5'4 // 163 cm,121 lb // 54 kg,Brown,Black
+26,Angela,95,100,100,100,100,100,-,bad,Female,- // 0 cm,- lb // 0 kg,-,-
+27,Animal Man,80,50,50,85,75,80,Bernhard Baker,good,Male,6'0 // 183 cm,185 lb // 83 kg,Blue,Blond
+28,Annihilus,90,80,50,60,60,65,Annihilus,bad,Male,5'11 // 180 cm,200 lb // 90 kg,Green,No Hair
+29,Ant-Man,100,20,25,30,35,35,Henry Jonathan Pym,good,Male,6'11 // 211 cm,270 lb // 122 kg,Blue,Blond
+30,Ant-Man II,90,20,20,40,55,30,Scott Lang,good,Male,6'0 // 183 cm,190 lb // 86 kg,Blue,Blond
+31,Anti-Monitor,95,100,50,100,100,90,-,bad,Male,200 // 61.0 meters,- lb // 0 kg,Yellow,No Hair
+32,Anti-Spawn,75,60,55,65,70,65,Jason Wynn,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+33,Anti-Venom,90,60,65,90,100,85,Edward Charles Allan Brock,-,Male,7'6 // 229 cm,795 lb // 358 kg,Blue,Blond
+34,Apocalypse,100,100,35,100,100,60,En Sabah Nur,bad,Male,7'0 // 213 cm,300 lb // 135 kg,Red,Black
+35,Aquababy,60,20,15,15,40,15,"Arthur Curry, Jr.",good,Male,- // 0 cm,- lb // 0 kg,Blue,Blond
+36,Aqualad,85,45,45,75,90,60,Garth,good,Male,5'10 // 178 cm,235 lb // 106 kg,Blue,Black
+37,Aquaman,95,85,80,80,100,80,Orin,good,Male,6'1 // 185 cm,325 lb // 146 kg,Blue,Blond
+38,Arachne,80,50,50,70,75,70,Julia Carpenter,good,Female,5'9 // 175 cm,140 lb // 63 kg,Blue,Blond
+39,Archangel,85,15,60,65,35,45,Warren Kenneth Worthington III,good,Male,6'0 // 183 cm,150 lb // 68 kg,Blue,Blond
+40,Arclight,75,65,25,45,55,70,Philippa Sontag,bad,Female,5'8 // 173 cm,126 lb // 57 kg,Violet,Purple
+41,Ardina,85,100,100,80,100,25,-,good,Female,6'4 // 193 cm,218 lb // 98 kg,White,Orange
+42,Ares,90,85,35,80,85,105,-,good,Male,6'1 // 185 cm,600 lb // 270 kg,Brown,Brown
+43,Ares,90,100,75,100,100,100,-,neutral,Male,6'10 // 208 cm,359 lb // 162 kg,Red,Black
+44,Ariel,80,10,15,15,95,30,Ariel,good,Female,5'5 // 165 cm,130 lb // 59 kg,Purple,Pink
+45,Armor,80,65,15,80,55,55,Hisako Ichiki,good,Female,5'4 // 163 cm,112 lb // 50 kg,Black,Black
+46,Arsenal,80,55,60,60,65,85,"Roy William Harper, Jr.",good,Male,- // 0 cm,- lb // 0 kg,-,-
+47,Atlas,85,80,25,100,100,50,Erik Stephan Josten,good,Male,6'0 // 183 cm,225 lb // 101 kg,Brown,Red
+48,Atlas,85,100,45,100,30,80,-,bad,Male,6'6 // 198 cm,280 lb // 126 kg,Blue,Brown
+49,Atom,90,95,75,95,90,85,Albert Pratt,good,Male,5'10 // 178 cm,150 lb // 68 kg,Blue,Red
+51,Atom Girl,75,10,25,30,40,45,Salu Digby,good,Female,5'6 // 168 cm,120 lb // 54 kg,Black,Black
+52,Atom II,95,10,35,45,40,60,Raymond Palmer,good,Male,6'0 // 183 cm,180 lb // 81 kg,Brown,Auburn
+54,Atom IV,85,55,55,55,60,65,Ryan Choi,good,Male,- // 0 cm,160 lb // 72 kg,Brown,Black
+55,Aurora,85,10,100,60,75,60,Jeanne-Marie Beaubier,good,Female,5'11 // 180 cm,140 lb // 63 kg,Blue,Black
+56,Azazel,80,15,50,95,100,80,-,bad,Male,6'0 // 183 cm,149 lb // 67 kg,Yellow,Black
+57,Azrael,85,20,20,20,35,80,Michael Washington Lane,good,Male,- // 0 cm,- lb // 0 kg,Brown,Black
+58,Aztar,95,95,95,95,95,90,Aztar,good,Male,- // 0 cm,- lb // 0 kg,-,-
+59,Bananaman,60,50,35,80,30,30,-,good,Male,- // 0 cm,- lb // 0 kg,-,-
+60,Bane,95,40,25,60,55,95,-,bad,Male,6'8 // 203 cm,400 lb // 180 kg,-,-
+61,Banshee,80,10,60,40,65,70,Sean Cassidy,good,Male,6'0 // 183 cm,170 lb // 77 kg,Green,Strawberry Blond
+62,Bantam,65,55,25,55,25,60,Roberto Velasquez,good,Male,5'5 // 165 cm,119 lb // 54 kg,Brown,Black
+63,Batgirl,70,45,50,40,45,70,Mary Elizabeth Kane,good,Female,- // 0 cm,- lb // 0 kg,-,-
+64,Batgirl,95,15,35,40,35,90,Barbara Gordon,good,Female,5'7 // 170 cm,126 lb // 57 kg,Green,Red
+65,Batgirl III,80,65,70,70,65,90,Helena Rosa Bertinelli,good,Female,- // 0 cm,- lb // 0 kg,-,-
+66,Batgirl IV,85,15,30,60,50,100,Cassandra Cain,good,Female,5'5 // 165 cm,115 lb // 52 kg,Green,Black
+68,Batgirl VI,90,10,25,30,25,80,Stephanie Brown,good,Female,5'6 // 168 cm,135 lb // 61 kg,Blue,Blond
+69,Batman,100,20,30,50,50,100,Bruce Wayne,good,Male,6'2 // 188 cm,210 lb // 95 kg,blue,black
+70,Batman,95,40,30,55,65,90,Terrence McGinnis,good,Male,5'10 // 178 cm,170 lb // 77 kg,Blue,Black
+71,Batman II,95,15,35,30,40,100,Richard John Grayson,good,Male,5'10 // 178 cm,175 lb // 79 kg,Blue,Black
+72,Battlestar,80,55,35,75,50,75,Lemar Hoskins,good,Male,6'6 // 198 cm,295 lb // 133 kg,Brown,Black
+73,Batwoman V,95,10,30,25,30,80,Katherine Rebecca Kane,good,Female,5'10 // 178 cm,- lb // 0 kg,Green,Red
+75,Beast,100,50,40,60,45,85,Henry Philip McCoy,good,Male,5'11 // 180 cm,402 lb // 181 kg,Blue,Blue
+76,Beast Boy,80,30,50,70,80,40,Garfield Mark Logan,good,Male,5'8 // 173 cm,150 lb // 68 kg,Green,Green
+77,Beetle,70,60,65,65,75,65,-,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+78,Ben 10,90,100,100,100,100,75,Benjamin Kirby Tennyson,good,Male,- // 0 cm,- lb // 0 kg,-,-
+79,Beta Ray Bill,85,80,35,95,100,85,Beta Ray Bill (translation of his Korbinite name),good,Male,6'7 // 201 cm,480 lb // 216 kg,-,No Hair
+80,Beyonder,100,100,100,100,100,85,-,good,Male,- // 0 cm,- lb // 0 kg,-,-
+81,Bi-Beast,95,100,60,75,30,55,-,good,Male,7'6 // 229 cm,350 lb // 158 kg,Black,None
+82,Big Barda,95,100,80,100,100,100,Barda Free,bad,Female,6'2 // 188 cm,300 lb // 135 kg,Blue,Black
+83,Big Daddy,75,10,15,35,25,65,Damon Macready,good,Male,- // 0 cm,- lb // 0 kg,-,-
+84,Big Man,90,15,25,30,20,70,Frederick Foswell,bad,Male,5'5 // 165 cm,157 lb // 71 kg,Blue,Brown
+85,Bill Harken,85,40,35,60,30,40,-,good,Male,- // 0 cm,- lb // 0 kg,-,-
+87,Binary,95,100,100,100,100,100,Carol Susan Jane Danvers,good,Female,5'11 // 180 cm,120 lb // 54 kg,Blue,Blond
+88,Bionic Woman,80,40,35,40,20,40,Jamie Wells Sommers,good,Female,- // 0 cm,- lb // 0 kg,Blue,Black
+89,Bird-Brain,65,10,35,30,25,45,-,good,-,- // 0 cm,- lb // 0 kg,-,-
+92,Birdman,90,55,70,70,70,70,Ray Randal,good,Male,- // 0 cm,- lb // 0 kg,-,-
+93,Bishop,85,15,25,75,100,65,Lucas Bishop,good,Male,6'6 // 198 cm,275 lb // 124 kg,Brown,No Hair
+94,Bizarro,75,95,100,100,100,85,Bizarro,neutral,Male,6'3 // 191 cm,345 lb // 155 kg,Black,Black
+96,Black Adam,95,100,95,100,100,60,Teth-Adam,bad,Male,6'3 // 191 cm,250 lb // 113 kg,Brown,Black
+97,Black Bolt,90,70,100,85,100,60,Blackagar Boltagon,good,Male,6'2 // 188 cm,210 lb // 95 kg,Blue,Black
+98,Black Canary,85,10,35,15,45,80,Dinah Drake Lance,good,Female,5'5 // 165 cm,128 lb // 58 kg,Blue,Blond
+99,Black Canary,85,10,35,20,55,80,Dinah Laurel Lance,good,Female,5'7 // 170 cm,130 lb // 59 kg,Blue,Blond
+100,Black Cat,90,20,35,10,25,70,Felicia Hardy,good,Female,5'10 // 178 cm,120 lb // 54 kg,Green,Blond
+101,Black Flash,75,10,100,80,100,30,-,neutral,Male,- // 0 cm,- lb // 0 kg,-,-
+103,Black Knight III,85,10,10,70,45,70,Dane Whitman,good,Male,6'0 // 183 cm,190 lb // 86 kg,Brown,Brown
+104,Black Lightning,80,15,55,30,70,75,Jefferson Pierce,good,Male,6'1 // 185 cm,200 lb // 90 kg,Brown,No Hair
+105,Black Mamba,90,10,35,45,90,65,Tanya Sealy,bad,Female,5'7 // 170 cm,115 lb // 52 kg,Green,Black
+106,Black Manta,90,30,50,60,80,85,-,bad,Male,6'2 // 188 cm,205 lb // 92 kg,Black,No Hair
+107,Black Panther,95,20,30,60,45,100,T'Challa,good,Male,6'0 // 183 cm,200 lb // 90 kg,Brown,Black
+108,Black Widow,90,15,35,30,40,100,Natalia Alianovna Romanova,good,Female,5'7 // 170 cm,131 lb // 59 kg,Green,Auburn
+109,Black Widow II,90,60,80,75,70,95,Yelena Belova,good,Female,5'7' // 170 cm,135 lb // 61 kg,Blue,Blond
+110,Blackout,85,35,45,80,45,65,-,bad,Male,6'3 // 191 cm,230 lb // 104 kg,Red,White
+111,Blackwing,75,10,35,35,20,60,Joseph Manfredi,bad,Male,6'1 // 185 cm,190 lb // 86 kg,Blue,Black
+112,Blackwulf,80,30,10,30,70,25,Lucian,-,Male,6'2 // 188 cm,195 lb // 88 kg,Red,White
+113,Blade,85,30,40,50,40,90,Eric Brooks,good,Male,6'2 // 188 cm,215 lb // 97 kg,Brown,Black
+115,Bling!,85,15,15,90,55,30,Roxanne Washington,good,Female,5'6 // 168 cm,152 lb // 68 kg,-,-
+116,Blink,80,10,20,30,80,65,Clarice Ferguson,good,Female,5'5 // 165 cm,125 lb // 56 kg,Green,Magenta
+117,Blizzard,75,75,60,70,85,65,-,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+119,Blizzard II,75,10,30,45,50,60,Donald Gill,bad,Male,5'9 // 175 cm,170 lb // 77 kg,Brown,Brown
+120,Blob,60,85,25,95,30,75,Frederick J. Dukes,bad,Male,5'10 // 178 cm,510 lb // 230 kg,Brown,Brown
+121,Bloodaxe,85,80,35,80,100,85,Jackie Lukus,bad,Female,7'2 // 218 cm,1100 lb // 495 kg,Blue,Brown
+122,Bloodhawk,80,10,50,80,80,65,Lemuel Krug,good,Male,- // 0 cm,- lb // 0 kg,Black,No Hair
+123,Bloodwraith,65,75,65,70,70,90,Sean Dolan,bad,Male,100'0 // 30.5 meters,- lb // 0 kg,White,No Hair
+124,Blue Beetle,85,80,80,85,90,85,Daniel Garrett,good,Male,- // 0 cm,- lb // 0 kg,Blue,Brown
+126,Blue Beetle II,85,45,55,65,60,80,Theodore Kord,good,Male,6'0 // 183 cm,190 lb // 86 kg,Blue,Brown
+127,Blue Beetle III,80,35,60,80,100,30,Jaime Reyes,good,Male,- // 0 cm,- lb // 0 kg,Brown,Black
+128,Boba Fett,85,10,40,40,70,70,-,bad,Male,6'0 // 183 cm,- lb // 0 kg,Brown,Black
+130,Bomb Queen,90,90,80,95,100,90,-,bad,Female,- // 0 cm,- lb // 0 kg,-,-
+131,Boom-Boom,75,10,15,45,60,65,Tabitha Smith,good,Female,5'5 // 165 cm,122 lb // 55 kg,Blue,Blond
+133,Booster Gold,85,85,45,70,100,40,Michael Jon Carter,good,Male,6'5 // 196 cm,215 lb // 97 kg,Blue,Blond
+136,Box IV,80,75,25,30,15,60,Madison Jeffries,good,-,- // 0 cm,- lb // 0 kg,Brown,Brown / Black
+137,Brainiac,100,95,65,90,60,75,Vril Dox,bad,Male,6'6 // 198 cm,300 lb // 135 kg,Green,No Hair
+138,Brainiac 5,100,10,25,30,60,35,Querl Dox,good,Male,5'7 // 170 cm,135 lb // 61 kg,Green,Blond
+139,Brother Voodoo,90,60,50,70,95,60,Jericho Drumm,good,Male,6'0 // 183 cm,220 lb // 99 kg,Brown,Brown / White
+140,Brundlefly,85,35,25,40,35,15,Sethaniel Brundle,neutral,Male,6'4 // 193 cm,- lb // 0 kg,-,-
+141,Buffy,85,30,45,70,50,60,Buffy Anne Summers,good,Female,5'2 // 157 cm,115 lb // 52 kg,Green,Blond
+142,Bullseye,80,15,25,70,20,70,Lester,bad,Male,6'0 // 183 cm,200 lb // 90 kg,blue,blond
+143,Bumblebee,85,30,25,10,50,35,Karen Beecher-Duncan,good,Female,5'7 // 170 cm,130 lb // 59 kg,Brown,Black
+145,Bushido,75,10,10,10,20,70,Ryuko Orsono,good,Male,- // 0 cm,- lb // 0 kg,-,-
+146,Cable,95,50,25,60,100,80,Nathan Christopher Charles Summers Dayspring,good,Male,6'8 // 203 cm,350 lb // 158 kg,Blue,White
+147,Callisto,85,55,25,45,55,85,Callisto,bad,Female,5'9 // 175 cm,165 lb // 74 kg,Blue,Black
+148,Cameron Hicks,80,10,25,30,55,70,-,good,Male,- // 0 cm,- lb // 0 kg,-,-
+149,Cannonball,80,30,70,100,95,60,Samuel Zachery Guthrie,good,Male,6'0 // 183 cm,181 lb // 81 kg,Blue,Blond
+150,Captain America,85,20,40,55,60,100,Steven Grant Rogers,good,Male,6'2 // 188 cm,240 lb // 108 kg,blue,blond
+151,Captain Atom,95,95,85,90,100,80,Nathaniel Christopher Adam,good,Male,6'4 // 193 cm,200 lb // 90 kg,Blue,Silver
+152,Captain Britain,90,80,50,60,35,80,Brian Braddock,good,Male,6'6 // 198 cm,257 lb // 116 kg,Blue,Blond
+153,Captain Cold,80,10,20,20,30,20,Leonard Snart,neutral,Male,- // 0 cm,- lb // 0 kg,Brown,Brown
+154,Captain Epic,85,85,75,85,80,85,-,good,Male,6'2 // 188 cm,- lb // 0 kg,Blue,Brown
+155,Captain Hindsight,65,10,85,30,10,20,Jack Brolin,good,Male,- // 0 cm,- lb // 0 kg,-,Black
+156,Captain Mar-vell,85,85,85,85,95,85,Mar-Vell,good,Male,6'2' // 188 cm,240 lb // 108 kg,Blue,Blond
+157,Captain Marvel,95,90,75,95,100,90,Carol Susan Jane Danvers,good,Female,5'11 // 180 cm,165 lb // 74 kg,Blue,Blond
+158,Captain Marvel II,90,85,30,90,35,60,Frederick Christopher Freeman,good,Male,5'9 // 175 cm,165 lb // 74 kg,Blue,Black
+160,Captain Planet,80,90,75,80,100,60,-,good,Male,- // 0 cm,- lb // 0 kg,Red,Green
+161,Captain Universe,95,95,95,95,100,85,-,good,-,- // 0 cm,- lb // 0 kg,-,-
+162,Carnage,85,65,70,85,90,90,Cletus Kasady,bad,Male,6'1 // 185 cm,190 lb // 86 kg,Green,Red
+163,Cat,90,85,80,90,85,80,Shirlee Bryant,good,Female,5'8 // 173 cm,135 lb // 61 kg,Blue,Blond
+165,Catwoman,85,15,35,30,30,85,Selina Kyle,good,Female,5'9 // 175 cm,135 lb // 61 kg,Green,Black
+167,Century,95,80,55,65,100,100,-,good,Male,6'7 // 201 cm,215 lb // 97 kg,White,White
+168,Cerebra,85,70,70,80,80,90,Shakti Haddad,good,Female,- // 0 cm,- lb // 0 kg,-,-
+169,Chamber,80,10,20,80,60,65,Jonothon Evan Starsmore,good,Male,5'9 // 175 cm,140 lb // 63 kg,Brown,Brown
+170,Chameleon,95,10,20,30,50,30,Dmitri Anatoly Nikolayevich Smerdyakov,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+171,Changeling,85,10,25,45,65,65,Kevin Sidney,bad,Male,5'11 // 180 cm,180 lb // 81 kg,Brown,Black
+172,Cheetah,75,10,45,20,35,70,Priscilla Rich,bad,Female,5'4 // 163 cm,110 lb // 50 kg,Green,Blond
+173,Cheetah II,75,20,45,20,40,60,Deborah Domaine,bad,Female,5'7 // 170 cm,122 lb // 55 kg,Green,Brown
+174,Cheetah III,95,100,90,80,80,95,Barbara Ann Minerva,bad,Female,5'9 // 175 cm,120 lb // 54 kg,Brown,Brown
+175,Chewbacca,80,40,25,50,40,65,-,good,Male,7'5 // 226 cm,247 lb // 111 kg,Blue,Brown
+177,Citizen Steel,80,95,35,100,25,60,Nathaniel Heywood,good,Male,6'0 // 183 cm,378 lb // 170 kg,Green,Red
+178,Claire Bennet,75,10,15,100,90,30,Claire Bennet,good,Female,- // 0 cm,- lb // 0 kg,Blue,Blond
+179,Clea,70,40,45,40,75,35,Clea,good,-,- // 0 cm,- lb // 0 kg,-,White
+180,Cloak,85,10,50,65,100,60,Tyrone Johnson,good,Male,7'5 // 226 cm,155 lb // 70 kg,brown,black
+181,Clock King,90,10,20,10,10,40,William Tockman,bad,Male,5'10 // 178 cm,173 lb // 78 kg,Blue,Black
+182,Cogliostro,70,65,60,80,80,60,Cain,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+185,Colossus,85,85,35,100,45,80,Piotr Nikolaievitch Rasputin,good,Male,7'5 // 226 cm,500 lb // 225 kg,Silver,Black
+186,Copycat,80,10,25,25,55,60,Vanessa Carlysle,neutral,Female,6'0 // 183 cm,148 lb // 67 kg,Red,White
+187,Corsair,70,35,45,35,45,75,Christopher Summers,good,Male,6'3 // 191 cm,175 lb // 79 kg,Brown,Brown
+188,Cottonmouth,80,10,10,10,30,25,Burchell Clemens,bad,Male,6'0 // 183 cm,220 lb // 99 kg,Brown,Black
+189,Crimson Crusader,60,60,40,65,85,65,Rory Destine,good,Male,- // 0 cm,- lb // 0 kg,Blue,Strawberry Blond
+190,Crimson Dynamo,85,70,60,75,80,65,Anton Vanko,good,Male,5'11 // 180 cm,230 lb // 104 kg,Brown,No Hair
+191,Crystal,85,20,15,15,65,60,Crystallia Amaquelin Maximoff,good,Female,5'6 // 168 cm,110 lb // 50 kg,Green,Red
+193,Cy-Gor,60,100,75,90,85,70,-,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+194,Cyborg,90,55,45,85,75,65,Victor Stone,good,Male,6'6 // 198 cm,385 lb // 173 kg,Brown,Black
+195,Cyborg Superman,90,95,95,100,100,80,Henry Henshaw,bad,Male,- // 0 cm,- lb // 0 kg,Blue,Black
+196,Cyclops,90,10,25,45,80,80,Scott Summers,good,Male,6'3 // 191 cm,195 lb // 88 kg,Brown,Brown
+197,Cypher,75,35,40,35,50,35,Douglas Aaron Ramsey,good,-,5'9' // 175 cm,150 lb // 68 kg,Blue,Blond
+198,Dagger,85,10,35,45,55,70,Tandy Bowen,good,Female,5'5 // 165 cm,116 lb // 52 kg,Blue,Blond
+200,Daphne Powell,75,10,10,10,60,10,Daphne Powell,good,Female,- // 0 cm,- lb // 0 kg,-,-
+201,Daredevil,90,15,35,35,65,100,Matthew Michael Murdock,good,Male,6'0 // 183 cm,200 lb // 90 kg,Blue,Red
+202,Darkhawk,80,35,35,70,75,65,Christopher Powell,good,Male,6'1 // 185 cm,180 lb // 81 kg,Brown,Brown
+203,Darkman,95,15,25,60,20,30,Peyton Westlake,good,Male,- // 0 cm,- lb // 0 kg,-,-
+204,Darkseid,95,100,85,100,100,95,Uxas,bad,Male,8'9 // 267 cm,1815 lb // 817 kg,Red,No Hair
+205,Darkstar,75,10,35,45,80,65,Laynia Petrovna,good,Female,5'6 // 168 cm,125 lb // 56 kg,Brown,Blond
+206,Darth Maul,80,50,50,30,100,100,-,bad,Male,5'7 // 170 cm,- lb // 0 kg,Yellow / Red,-
+207,Darth Vader,85,50,35,35,100,100,Anakin Skywalker,bad,Male,6'6 // 198 cm,300 lb // 135 kg,Yellow,No Hair
+208,Dash,65,15,95,60,20,30,Dashiell Robert Parr,good,Male,4'0 // 122 cm,60 lb // 27 kg,Blue,Blond
+209,Data,100,35,25,40,60,50,-,good,Male,- // 0 cm,- lb // 0 kg,Yellow,Brown
+210,Dazzler,85,10,35,60,100,55,Alison Blaire,good,Female,5'8 // 173 cm,115 lb // 52 kg,Blue,Blond
+211,Deadman,80,10,35,100,100,45,Boston Brand,good,Male,6'0 // 183 cm,201 lb // 90 kg,Blue,Black
+212,Deadpool,85,35,50,100,100,100,Wade Winston Wilson,neutral,Male,6'2 // 188 cm,210 lb // 95 kg,Brown,No Hair
+213,Deadshot,80,10,25,30,55,80,Floyd Lawton,bad,Male,6'1 // 185 cm,202 lb // 91 kg,Brown,Brown
+214,Deathlok,85,35,30,70,40,60,Luther Manning,good,Male,6'4 // 193 cm,395 lb // 178 kg,Brown,Grey
+215,Deathstroke,90,30,35,100,50,90,Slade Joseph Wilson,neutral,Male,6'4 // 193 cm,225 lb // 101 kg,Blue,White
+216,Demogoblin,80,50,45,35,70,60,-,bad,Male,6'1 // 185 cm,210 lb // 95 kg,Red,No Hair
+217,Destroyer,80,95,60,100,85,70,-,bad,Male,6'2 // 188 cm,850 lb // 383 kg,-,-
+218,Diamondback,75,20,25,30,45,60,Willis Stryker,bad,Male,6'4 // 193 cm,200 lb // 90 kg,Brown,Black
+219,DL Hawkins,80,15,15,60,50,60,Daniel Lawrence Hawkins,good,Male,- // 0 cm,- lb // 0 kg,-,-
+220,Doc Samson,90,80,35,80,40,70,Leonard Samson,good,Male,6'6 // 198 cm,380 lb // 171 kg,Blue,Green
+221,Doctor Doom,100,35,20,100,100,85,Victor von Doom,bad,Male,6'7 // 201 cm,415 lb // 187 kg,Brown,Brown
+222,Doctor Doom II,95,75,55,75,80,70,Kristoff Vernard,bad,Male,6'7 // 201 cm,293 lb // 132 kg,Brown,Brown
+223,Doctor Fate,95,20,25,80,100,50,Kent Nelson,good,Male,6'2 // 188 cm,197 lb // 89 kg,Blue,Blond
+224,Doctor Octopus,100,50,35,40,55,65,Otto Octavius,bad,Male,5'9 // 175 cm,245 lb // 110 kg,Brown,Brown
+225,Doctor Strange,100,10,15,85,100,60,Stephen Vincent Strange,good,Male,6'2 // 188 cm,180 lb // 81 kg,Grey,Black
+226,Domino,85,10,30,30,50,75,Neena Thurman,good,Female,5'8 // 173 cm,120 lb // 54 kg,Blue,Black
+227,Donatello,95,15,50,60,60,75,-,good,Male,- // 0 cm,- lb // 0 kg,Green,No Hair
+228,Donna Troy,90,90,85,90,85,95,Donna Hinckley Stacey Troy,good,Female,5'9 // 175 cm,140 lb // 63 kg,Blue,Black
+229,Doomsday,90,100,70,100,100,90,Doomsday,bad,Male,8'0 // 244 cm,915 lb // 412 kg,Red,White
+230,Doppelganger,50,65,60,95,70,85,-,bad,Male,6'5 // 196 cm,230 lb // 104 kg,White,No Hair
+231,Dormammu,95,95,85,100,100,80,Dormammu,bad,Male,6'1 // 185 cm,- lb // 0 kg,Yellow,No Hair
+232,Dr Manhattan,100,100,45,100,100,45,Jonathan Osterman,good,Male,- // 0 cm,- lb // 0 kg,White,No Hair
+233,Drax the Destroyer,80,80,25,85,50,65,Arthur Sampson Douglas,good,Male,6'4 // 193 cm,680 lb // 306 kg,Red,No Hair
+234,Ego,95,80,85,100,75,30,Ego,bad,-,- // 0 cm,- lb // 0 kg,-,-
+235,Elastigirl,85,35,35,95,55,70,Helen Parr,good,Female,5'6 // 168 cm,125 lb // 56 kg,Brown,Brown
+236,Electro,85,10,50,60,70,65,Maxwell Dillon,bad,Male,5'11 // 180 cm,165 lb // 74 kg,Blue,Auburn
+237,Elektra,85,15,30,30,60,100,Elektra Natchios,good,Female,5'9 // 175 cm,130 lb // 59 kg,Blue,Black
+238,Elle Bishop,80,10,15,45,65,45,-,bad,Female,- // 0 cm,- lb // 0 kg,Blue,Blond
+239,Elongated Man,90,10,35,90,45,40,Ralph Dibny,good,Male,6'1 // 185 cm,178 lb // 80 kg,Blue,Red
+240,Emma Frost,90,65,35,90,100,45,Emma Frost,good,Female,5'10' // 178 cm,144 lb // 65 kg,Blue,Blond
+241,Enchantress,85,15,25,60,100,40,-,good,Female,5'6 // 168 cm,126 lb // 57 kg,Blue,Blond
+242,Energy,80,80,85,80,85,75,-,good,Female,- // 0 cm,- lb // 0 kg,-,-
+244,Etrigan,80,85,20,100,100,50,Jason Blood,neutral,Male,6'4 // 193 cm,452 lb // 203 kg,Red,No Hair
+245,Evil Deadpool,85,35,50,100,100,100,-,bad,Male,6'2 // 188 cm,210 lb // 95 kg,White,Red
+246,Evilhawk,80,35,35,70,85,65,Dargin Bokk,bad,Male,6'3 // 191 cm,235 lb // 106 kg,Red,Black
+247,Exodus,85,85,30,30,100,70,Bennet du Paris,bad,Male,6'0 // 183 cm,195 lb // 88 kg,Blue,Black
+249,Falcon,75,15,50,30,25,65,Samuel Thomas Wilson,good,Male,6'2 // 188 cm,240 lb // 108 kg,Brown,Black
+250,Fallen One II,95,85,85,100,100,60,-,bad,Male,- // 0 cm,- lb // 0 kg,Black,Blue
+251,Faora,95,95,75,100,100,90,Faora Hu-Ul,bad,Female,- // 0 cm,- lb // 0 kg,-,-
+252,Feral,75,30,45,30,30,70,Maria Callasantos,good,-,5'9 // 175 cm,110 lb // 50 kg,Yellow (without irises),Orange / White
+254,Fin Fang Foom,80,85,25,100,75,70,-,good,Male,32'0 // 975 cm,40000 lb // 18 tons,Red,No Hair
+255,Firebird,75,10,40,15,100,45,Bonita Juarez,good,Female,5'5' // 165 cm,125 lb // 56 kg,Brown,Black
+256,Firelord,75,65,75,90,55,30,Pyreus Kril,good,-,6'4' // 193 cm,220 lb // 99 kg,White,Yellow
+257,Firestar,80,10,55,55,75,35,Angelica Jones,good,Female,5'8 // 173 cm,125 lb // 56 kg,Green,Red
+258,Firestorm,80,55,60,60,100,45,Jason Rusch,good,Male,- // 0 cm,- lb // 0 kg,Brown,Black
+259,Firestorm,75,80,60,80,100,40,Ronald Raymond,good,Male,6'2 // 188 cm,202 lb // 91 kg,Blue,Auburn
+260,Fixer,90,70,70,75,70,65,Paul Norbert Ebersol,bad,-,- // 0 cm,- lb // 0 kg,Red,No Hair
+261,Flash,85,10,100,50,70,35,Jason Peter Garrick,good,Male,5'11 // 180 cm,179 lb // 81 kg,Blue,Brown / White
+262,Flash II,95,50,100,60,100,60,Bartholomew Henry Allen,good,Male,6'0 // 183 cm,195 lb // 88 kg,Blue,Blond
+263,Flash III,85,10,100,60,100,35,Wallace Rudolph West,good,Male,6'0 // 183 cm,190 lb // 86 kg,-,-
+264,Flash IV,85,10,100,35,100,50,Bartholomew Allen II,good,Male,5'2 // 157 cm,115 lb // 52 kg,Yellow,Auburn
+265,Forge,85,10,15,30,25,50,-,good,-,6' // 183 cm,180 lb // 81 kg,Brown,Black
+266,Franklin Richards,85,80,50,60,100,50,Franklin Benjamin Richards,good,Male,4'8 // 142 cm,100 lb // 45 kg,Blue,Blond
+267,Franklin Storm,75,10,5,5,0,10,Dr. Franklin Storm,good,-,6'2' // 188 cm,205 lb // 92 kg,Blue,Grey
+268,Frenzy,85,55,35,100,40,55,Joanna Cargill,bad,Female,6'11 // 211 cm,230 lb // 104 kg,Brown,Black
+269,Frigga,75,80,50,85,85,65,Frigga,good,Female,5'11' // 180 cm,370 lb // 167 kg,Blue,White
+270,Galactus,100,100,85,100,100,50,Galan,neutral,Male,28'9 // 876 cm,36400 lb // 16 tons,Black,Black
+271,Gambit,85,10,25,30,55,85,Remy Etienne LeBeau,good,Male,6'1 // 185 cm,179 lb // 81 kg,Red,Brown
+272,Gamora,90,85,45,85,55,100,Gamora Zen Whoberi Ben Titan,good,Female,6'0 // 183 cm,170 lb // 77 kg,Yellow,Black
+273,Garbage Man,80,90,65,90,90,85,Richard Ethan Morse,good,Male,- // 0 cm,- lb // 0 kg,-,-
+274,Gary Bell,85,5,10,10,55,10,Gary Bell,good,Male,- // 0 cm,- lb // 0 kg,-,-
+275,General Zod,100,100,100,100,100,95,Dru-Zod,bad,Male,- // 0 cm,- lb // 0 kg,Black,Black
+276,Genesis,80,75,75,70,80,65,Tyler Dayspring,good,Male,6'1 // 185 cm,191 lb // 86 kg,Blue,Blond
+277,Ghost Rider,80,55,25,100,100,60,Jonathan Blaze,good,Male,6'2 // 188 cm,220 lb // 99 kg,Red,No Hair
+278,Ghost Rider II,70,85,95,85,85,90,Daniel Ketch,good,-,- // 0 cm,- lb // 0 kg,-,-
+279,Giant-Man,95,85,40,65,55,45,Henry Jonathan Pym,good,Male,- // 0 cm,- lb // 0 kg,-,-
+281,Giganta,95,90,25,85,35,45,Doris Zuel,bad,Female,205 // 62.5 meters,1400 lb // 630 kg,Green,Red
+282,Gladiator,80,100,100,100,80,70,Kallark,neutral,Male,6'6 // 198 cm,595 lb // 268 kg,Blue,Blue
+283,Goblin Queen,90,10,25,30,65,60,Madelyne Jennifer Pryor,bad,Female,5'6 // 168 cm,110 lb // 50 kg,Green,Red
+284,Godzilla,75,100,55,100,100,20,-,bad,-,354'4 // 108.0 meters,"200000000 lb // 90,000 tons",-,-
+285,Gog,80,35,50,75,40,60,-,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+286,Goku,80,100,75,90,100,100,Kakarot,good,Male,5'9 // 175 cm,137 lb // 62 kg,-,-
+291,Gorilla Grodd,95,55,35,70,100,65,Grodd,bad,Male,6'6 // 198 cm,600 lb // 270 kg,Yellow,Black
+292,Granny Goodness,100,100,90,100,95,100,-,bad,Female,5'10 // 178 cm,256 lb // 115 kg,Blue,White
+293,Gravity,80,35,35,40,70,30,Greg Willis,good,Male,5'10 // 178 cm,175 lb // 79 kg,Blue,Brown
+294,Greedo,75,10,15,15,35,40,-,bad,Male,5'7 // 170 cm,- lb // 0 kg,Purple,-
+295,Green Arrow,95,15,35,30,40,90,Oliver Jonas Queen,good,Male,6'2 // 188 cm,195 lb // 88 kg,Green,Blond
+296,Green Goblin,100,50,40,60,50,50,Norman Virgil Osborn,bad,Male,5'11 // 180 cm,185 lb // 83 kg,Blue,Auburn
+297,Green Goblin II,90,55,40,50,45,30,Harold Osborn,bad,Male,5'10 // 178 cm,170 lb // 77 kg,Blue,Auburn
+299,Green Goblin IV,90,90,85,80,65,75,Phillip Benjamin Urich,good,Male,5'10 // 178 cm,175 lb // 79 kg,Green,Brown
+300,Green Lantern,85,90,75,80,100,70,Harold Jordan,good,Male,6'2 // 188 cm,200 lb // 90 kg,Brown,Brown
+301,Green Lantern,85,80,25,90,100,35,Alan Ladd Wellington Scott,good,Male,5'11 // 180 cm,201 lb // 90 kg,Blue,Blond
+302,Green Lantern,75,90,55,65,100,65,Guy Darrin Gardner,good,Male,6'2 // 188 cm,210 lb // 95 kg,Blue,Red
+303,Green Lantern,80,85,45,65,100,65,John Stewart,good,Male,6'1 // 185 cm,201 lb // 90 kg,Green,Black
+304,Green Lantern,85,90,50,60,100,60,-,good,Male,5'11 // 180 cm,175 lb // 79 kg,Green,Black
+305,Green Lantern,80,90,45,55,100,60,-,good,Male,- // 0 cm,- lb // 0 kg,Bown,Black
+306,Green Lantern,80,90,50,50,100,55,Jessica Viviana Cruz,good,Female,- // 0 cm,- lb // 0 kg,Green,Brown
+307,Groot,90,85,35,70,100,65,Groot,good,Male,23'0 // 701 cm,8200 lb // 4 tons,Yellow,-
+308,Guardian,90,65,65,75,80,75,Dr. James McDonald Hudson,good,Male,- // 0 cm,- lb // 0 kg,Brown,Black
+309,Han Solo,80,10,20,20,45,60,Han Solo,good,Male,6'0 // 183 cm,176 lb // 79 kg,Brown,Brown
+310,Hancock,85,90,70,100,100,50,John Hancock,good,Male,6'2 // 188 cm,- lb // 0 kg,Brown,Black
+311,Harley Quinn,95,15,35,65,55,80,Harleen Francis Quinzel,bad,Female,5'7 // 170 cm,140 lb // 63 kg,Blue,Blond
+312,Harry Potter,90,10,25,10,100,50,-,good,Male,- // 0 cm,- lb // 0 kg,Green,Black
+313,Havok,85,10,25,60,75,45,Alexander Summers,good,Male,6' // 183 cm,175 lb // 79 kg,Blue,Blond
+314,Hawk,75,40,35,95,45,45,Henry Hall,good,Male,6'1 // 185 cm,197 lb // 89 kg,Red,Brown
+315,Hawkeye,80,15,25,10,30,80,Clinton Francis Barton,good,Male,6'3 // 191 cm,230 lb // 104 kg,Blue,Blond
+316,Hawkeye II,80,10,10,10,25,50,Katherine Elizabeth Bishop,good,Female,5'5 // 165 cm,126 lb // 57 kg,Blue,Black
+317,Hawkgirl,80,30,55,100,100,75,Kendra Saunders,good,Female,5'9 // 175 cm,135 lb // 61 kg,Green,Red
+318,Hawkman,90,40,60,75,85,80,Carter Hall,good,Male,6'1 // 185 cm,195 lb // 88 kg,Blue,Brown
+319,Hawkwoman,90,85,85,90,85,90,Shayera Hol,good,Female,5'9 // 175 cm,120 lb // 54 kg,Green,Red
+320,Hawkwoman II,75,85,90,75,80,85,Sharon Parker,good,Female,- // 0 cm,- lb // 0 kg,-,-
+321,Hawkwoman III,75,80,85,85,80,90,Shayera Thal,good,Female,5'7 // 170 cm,145 lb // 65 kg,Blue,Red
+322,He-Man,90,100,75,90,75,85,-,good,Male,- // 0 cm,- lb // 0 kg,-,-
+323,Heat Wave,75,10,20,45,30,30,Mick Rory,bad,Male,5'11 // 180 cm,179 lb // 81 kg,Blue,No Hair
+324,Hela,85,100,50,100,100,45,-,bad,Female,7'0 // 213 cm,500 lb // 225 kg,Green,Black
+325,Hellboy,85,55,25,95,75,75,Anung Un Rama,good,Male,8'6 // 259 cm,350 lb // 158 kg,Gold,Black
+326,Hellcat,85,15,35,45,50,70,Patricia Walker,good,Female,5'8 // 173 cm,135 lb // 61 kg,Blue,Red
+327,Hellstorm,80,65,60,75,90,65,Daimon Hellstrom,good,Male,6'1' // 185 cm,180 lb // 81 kg,Red,Red
+328,Hercules,85,100,50,85,90,100,Heracles,good,Male,6'5 // 196 cm,325 lb // 146 kg,Blue,Brown
+329,Hiro Nakamura,75,15,95,20,100,35,Hiro Nakamura,good,Male,- // 0 cm,- lb // 0 kg,-,-
+330,Hit-Girl,80,10,30,20,30,65,Mindy McCready,good,Female,- // 0 cm,- lb // 0 kg,-,-
+331,Hobgoblin,65,60,60,60,65,60,Roderick Kingsley,bad,Male,5'11 // 180 cm,185 lb // 83 kg,Blue,Grey
+332,Hollow,85,80,80,80,80,80,Monet St. Croix,good,Female,5'7 // 170 cm,- lb // 0 kg,Blue,Red
+333,Hope Summers,85,10,15,35,95,75,Hope Summers,good,Female,5'6 // 168 cm,106 lb // 48 kg,Green,Red
+334,Howard the Duck,75,55,55,70,60,75,Howard (Last name unrevealed),good,Male,2'7' // 79 cm,40 lb // 18 kg,Brown,Yellow
+335,Hulk,95,100,65,100,100,85,Robert Bruce Banner,good,Male,8'0 // 244 cm,1400 lb // 630 kg,Green,Green
+336,Human Torch,85,15,65,70,90,45,Jonathan Lowell Spencer Storm,good,Male,5'10 // 178 cm,170 lb // 77 kg,Blue,Blond
+337,Huntress,85,10,25,30,35,95,Helena Rosa Bertinelli,good,Female,5'11 // 180 cm,130 lb // 59 kg,Blue,Black
+338,Husk,85,65,35,80,50,65,Paige Elisabeth Guthrie,good,Female,5'7 // 170 cm,128 lb // 58 kg,Blue,Blond
+339,Hybrid,85,65,60,75,100,80,-,good,Male,5'9 // 175 cm,172 lb // 77 kg,Brown,Black
+340,Hydro-Man,75,15,25,80,70,50,Morris Bench,bad,Male,6'2 // 188 cm,265 lb // 119 kg,Brown,Brown
+341,Hyperion,95,100,100,95,90,80,-,good,Male,6'0 // 183 cm,460 lb // 207 kg,Blue,Red
+342,Iceman,85,35,55,100,100,65,Robert Louis Drake,good,Male,5'8 // 173 cm,145 lb // 65 kg,Brown,Brown
+343,Impulse,80,10,100,60,75,60,Bartholomew Allen II,good,Male,5'7 // 170 cm,145 lb // 65 kg,Yellow,Auburn
+344,Indiana Jones,85,10,20,30,20,30,Henry Walton Jones Jr.,good,Male,6'0 // 183 cm,176 lb // 79 kg,-,-
+345,Indigo,90,65,50,50,100,50,-,neutral,Female,- // 0 cm,- lb // 0 kg,-,Purple
+346,Ink,75,30,20,40,75,50,Eric Gitter,good,Male,5'11 // 180 cm,180 lb // 81 kg,Blue,No Hair
+347,Invisible Woman,95,10,30,85,95,60,Susan Storm Richards,good,Female,5'6 // 168 cm,120 lb // 54 kg,blue,Blond
+348,Iron Fist,90,55,35,50,95,100,Daniel Thomas Rand-K'ai,good,Male,5'11 // 180 cm,175 lb // 79 kg,Blue,Blond
+349,Iron Man,100,85,60,85,100,65,Anthony Edward Stark,good,Male,6'6 // 198 cm,425 lb // 191 kg,Blue,Black
+350,Iron Monger,95,65,25,90,60,60,Obadiah Stane,bad,Male,- // 0 cm,4230 lb // 2 tons,Blue,No Hair
+351,Isis,90,50,75,50,50,60,Adrianna Tomaz,good,Female,- // 0 cm,- lb // 0 kg,-,-
+352,Jack of Hearts,85,55,100,30,80,30,Jonathan Hart,good,Male,5'1 // 155 cm,175 lb // 79 kg,Blue / White,Brown
+353,Jack-Jack,35,35,70,80,100,10,Jac-jack Parr,good,Male,2'4 // 71 cm,30 lb // 14 kg,Blue,Brown
+354,James Bond (Craig),95,15,20,35,25,90,James Bond,good,Male,6'0 // 183 cm,- lb // 0 kg,blue,Blond
+355,James T. Kirk,85,15,20,30,30,75,James Tiberius Kirk,good,Male,5'10 // 178 cm,170 lb // 77 kg,Hazel,Brown
+356,Jar Jar Binks,60,10,35,10,25,15,-,good,Male,6'4 // 193 cm,- lb // 0 kg,Yellow,-
+357,Jason Voorhees,85,35,25,100,100,50,-,bad,Male,6'3 // 191 cm,250 lb // 113 kg,Brown,Red
+358,Jean Grey,100,80,25,20,95,70,Jean Grey-Summers,good,Female,5'6 // 168 cm,115 lb // 52 kg,Green,Red
+359,Jean-Luc Picard,90,10,20,30,30,65,-,good,Male,- // 0 cm,- lb // 0 kg,-,-
+360,Jennifer Kale,90,10,35,45,75,75,Jennifer Kale,good,Female,5'6 // 168 cm,122 lb // 55 kg,Blue,Blond
+361,Jesse Quick,90,60,100,70,90,85,Jessica Belle Chambers,good,Female,- // 0 cm,- lb // 0 kg,-,-
+362,Jessica Jones,80,45,50,70,20,55,Jessica Campbell Jones Cage,good,Female,5'7 // 170 cm,124 lb // 56 kg,Brown,Brown
+364,Jigsaw,60,45,45,60,45,85,Billy Russo,bad,Male,6'2 // 188 cm,250 lb // 113 kg,Blue,Black
+365,Jim Powell,75,40,25,80,25,20,Jim Powell,good,Male,- // 0 cm,- lb // 0 kg,-,-
+366,JJ Powell,95,10,10,10,15,10,JJ Powell,good,Male,- // 0 cm,- lb // 0 kg,-,-
+368,John Constantine,85,10,10,40,55,65,John Constantine,good,Male,6'0 // 183 cm,- lb // 0 kg,Blue,Blond
+369,John Wraith,90,15,35,30,90,80,John Wraith,good,Male,6'0 // 183 cm,195 lb // 88 kg,Brown,Black
+370,Joker,100,10,15,60,45,70,Jack Napier,bad,Male,6'5 // 196 cm,192 lb // 86 kg,Green,Green
+371,Jolt,85,15,30,35,35,45,Helen Takahama,good,Female,5'5 // 165 cm,109 lb // 49 kg,Blue,Black
+372,Jubilee,80,10,25,20,70,90,Jubilation Lee,good,Female,5'5 // 165 cm,115 lb // 52 kg,Red,Black
+373,Judge Dredd,90,20,40,50,55,95,Joseph Dredd,good,Male,6'2 // 188 cm,- lb // 0 kg,-,-
+374,Juggernaut,75,100,45,100,85,70,Cain Marko,neutral,Male,9'5 // 287 cm,1900 lb // 855 kg,Blue,Red
+375,Junkpile,80,40,20,90,85,30,-,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+376,Justice,80,10,35,70,55,30,Vance Astrovik,good,Male,5'10 // 178 cm,180 lb // 81 kg,Hazel,Brown
+377,Jyn Erso,70,40,50,50,55,85,-,good,Female,- // 0 cm,- lb // 0 kg,Green,Brown
+379,Kang,100,50,60,70,100,70,Nathaniel Richards,bad,Male,6'3 // 191 cm,230 lb // 104 kg,Brown,Brown
+380,Karate Kid,85,65,70,20,50,100,-,good,Male,5'8 // 173 cm,160 lb // 72 kg,Brown,Brown
+381,Kathryn Janeway,90,10,25,25,25,50,Kathryn M. Janeway,good,Female,- // 0 cm,- lb // 0 kg,-,-
+382,Katniss Everdeen,80,10,25,25,25,55,-,good,Female,- // 0 cm,- lb // 0 kg,-,-
+383,Kevin 11,65,10,15,15,100,40,Kevin Ethan Levin,good,Male,- // 0 cm,- lb // 0 kg,-,Black
+384,Kick-Ass,75,10,25,35,25,60,Dave Lizewski,good,Male,- // 0 cm,- lb // 0 kg,Blue,Blond
+385,Kid Flash,65,5,95,45,20,30,Wallace Rudolph West,good,Male,- // 0 cm,- lb // 0 kg,Green,Red
+386,Kid Flash II,70,45,100,65,80,65,Bartholomew Allen II,good,Male,- // 0 cm,- lb // 0 kg,-,-
+387,Killer Croc,65,55,35,90,55,60,Waylon Jones,bad,Male,8'0 // 244 cm,790 lb // 356 kg,Red,No Hair
+388,Killer Frost,95,10,15,35,60,30,-,bad,Female,- // 0 cm,- lb // 0 kg,Blue,Blond
+389,Kilowog,95,90,55,45,100,80,-,good,Male,7'8 // 234 cm,720 lb // 324 kg,Red,No Hair
+390,King Kong,80,100,75,75,50,75,-,good,Male,100'0 // 30.5 meters,"20000000 lb // 9,000 tons",Yellow,Black
+391,King Shark,80,90,50,90,90,40,-,bad,Male,- // 0 cm,- lb // 0 kg,Black,No Hair
+392,Kingpin,90,20,25,40,15,70,Wilson Grant Fisk,bad,Male,6'7 // 201 cm,450 lb // 203 kg,Blue,No Hair
+393,Klaw,85,40,35,100,65,60,Ulysses Klaw,bad,Male,6'2 // 188 cm,216 lb // 97 kg,Red,No Hair
+394,Kratos,80,95,65,95,100,100,-,good,Male,6'6 // 198 cm,240 lb // 108 kg,-,-
+395,Kraven II,80,35,25,30,45,85,Alyosha Kravinoff,bad,Male,6'3 // 191 cm,220 lb // 99 kg,Brown,Black
+396,Kraven the Hunter,85,35,35,45,25,85,Sergei Kravinoff,bad,Male,6'0 // 183 cm,235 lb // 106 kg,Brown,Black
+397,Krypto,55,80,100,90,85,40,Krypto the Superdog,good,Male,0'25 // 64 cm,40 lb // 18 kg,Blue,White
+398,Kylo Ren,80,45,35,30,100,70,-,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+399,Lady Bullseye,90,75,80,80,75,100,-,bad,Female,- // 0 cm,- lb // 0 kg,-,Black
+400,Lady Deathstrike,85,30,45,85,50,90,Yuriko Oyama,bad,Female,5'9 // 175 cm,128 lb // 58 kg,Brown,Black
+401,Leader,100,10,15,15,60,45,Samuel Sterns,bad,Male,5'10 // 178 cm,140 lb // 63 kg,Green,No Hair
+402,Leech,65,5,15,15,65,15,-,good,Male,- // 0 cm,- lb // 0 kg,-,-
+403,Legion,80,100,45,30,100,75,David Charles Haller,good,Male,5'9 // 175 cm,130 lb // 59 kg,Green / Blue,Black
+404,Leonardo,90,20,50,65,60,80,-,good,Male,- // 0 cm,- lb // 0 kg,Blue,No Hair
+405,Lex Luthor,100,55,25,65,70,70,Alexander 'Lex' Joseph Luthor,bad,Male,6'2' // 188 cm,210 lb // 95 kg,Green,No Hair
+406,Light Lass,75,10,35,30,70,45,Ayla Ranzz,good,Female,5'5 // 165 cm,120 lb // 54 kg,Blue,Red
+407,Lightning Lad,75,10,25,30,60,45,Garth Ranzz,good,Male,5'1 // 155 cm,145 lb // 65 kg,Blue,Red
+408,Lightning Lord,75,10,25,45,70,45,Mekt Ranzz,bad,Male,6'3 // 191 cm,210 lb // 95 kg,Blue,Red
+409,Living Brain,90,55,35,60,35,30,-,bad,-,6'6 // 198 cm,800 lb // 360 kg,Yellow,-
+410,Living Tribunal,100,100,100,100,100,30,-,neutral,-,- // 0 cm,- lb // 0 kg,Blue,No Hair
+411,Liz Sherman,55,35,30,45,75,50,Elizabeth Anne Sherman,good,Female,- // 0 cm,- lb // 0 kg,-,-
+412,Lizard,80,55,60,70,80,60,Curtis Connors,bad,Male,6'8 // 203 cm,510 lb // 230 kg,Red,No Hair
+413,Lobo,100,100,55,100,100,85,-,neutral,Male,7'6 // 229 cm,640 lb // 288 kg,Red,Black
+414,Loki,95,65,50,85,100,60,Loki Laufeyson,bad,Male,6'4 // 193 cm,525 lb // 236 kg,Green,Black
+415,Longshot,80,10,30,10,75,70,-,good,Male,6'2 // 188 cm,80 lb // 36 kg,Blue,Blond
+416,Lucifer Morningstar,100,100,85,100,100,95,-,neutral,Male,5'10 // 178 cm,175 lb // 79 kg,Amber,Blond
+417,Luke Cage,80,65,30,95,45,70,Luke Cage,good,Male,6'6 // 198 cm,425 lb // 191 kg,Brown,Black
+419,Luke Skywalker,85,40,45,25,100,100,Luke Skywalker,good,Male,5'6 // 168 cm,170 lb // 77 kg,Blue,Blond
+420,Luna,75,10,85,15,55,15,Luna Maximoff,good,Female,- // 0 cm,- lb // 0 kg,-,-
+421,Lyja,70,65,50,60,85,85,Lyja,good,Female,- // 0 cm,- lb // 0 kg,Green,Green
+422,Mach-IV,90,40,60,85,60,60,Abner Jenkins,bad,Male,5'11 // 180 cm,175 lb // 79 kg,Brown,Brown
+423,Machine Man,85,35,35,85,55,65,"X-51, Aaron Stack",good,-,6' // 183 cm,850 lb // 383 kg,Red,Black
+425,Magneto,95,80,30,85,95,80,Erik Magnus Lensherr,bad,Male,6'2 // 188 cm,190 lb // 86 kg,Grey,White
+426,Magog,80,50,25,65,70,75,David Reid,good,Male,- // 0 cm,- lb // 0 kg,Blue,Blond
+427,Magus,95,100,70,100,100,75,-,bad,Male,6'0 // 183 cm,- lb // 0 kg,Black,-
+428,Man of Miracles,100,100,100,100,100,100,-,-,-,- // 0 cm,- lb // 0 kg,Blue,Silver
+429,Man-Bat,75,20,50,70,35,30,Robert Kirkland Langstrom,neutral,Male,- // 0 cm,- lb // 0 kg,Brown,Brown
+430,Man-Thing,80,35,10,100,100,40,Dr. Theodore Sallis,good,Male,7'0 // 213 cm,500 lb // 225 kg,Red,No Hair
+431,Man-Wolf,85,45,35,45,45,70,John Jameson,good,Male,6'2' // 188 cm,200 lb // 90 kg,Brown,Auburn
+432,Mandarin,100,30,25,30,100,95,Khan,bad,Male,6'2 // 188 cm,215 lb // 97 kg,Blue,White
+433,Mantis,85,10,35,80,100,80,-,good,Female,5'6 // 168 cm,115 lb // 52 kg,Green,Black
+434,Martian Manhunter,100,95,95,100,100,85,J'onn J'onzz,good,Male,6'7 // 201 cm,300 lb // 135 kg,Red,No Hair
+435,Marvel Girl,85,85,50,45,100,80,Rachel Anne Summers,good,Female,5'7' // 170 cm,125 lb // 56 kg,Green,Red
+437,Master Chief,90,75,35,80,70,100,John-117,good,Male,7' // 213 cm,- lb // 0 kg,Brown,Brown
+438,Match,90,95,85,85,100,70,Kent Connor,bad,Male,- // 0 cm,- lb // 0 kg,Black,Black
+439,Matt Parkman,85,10,15,15,60,60,Matthew Parkman,good,Male,- // 0 cm,- lb // 0 kg,-,-
+440,Maverick,85,10,15,45,60,85,Christopher Bradley,good,Male,6'4 // 193 cm,244 lb // 110 kg,Blue,Black
+441,Maxima,90,90,35,60,85,75,-,bad,Female,5'11 // 180 cm,160 lb // 72 kg,Brown,Red
+442,Maya Herrera,80,10,15,15,60,15,Maya Herrera,good,Female,- // 0 cm,- lb // 0 kg,-,-
+443,Medusa,90,35,35,70,40,60,Medusalith Amaquelin Boltagon,good,Female,5'11 // 180 cm,130 lb // 59 kg,Green,Red
+444,Meltdown,75,10,15,45,65,65,Tabitha Smith,good,Female,5'5 // 165 cm,120 lb // 54 kg,Blue,Blond
+445,Mephisto,95,85,35,95,100,45,-,bad,Male,6'6 // 198 cm,310 lb // 140 kg,White,Black
+446,Mera,80,65,80,60,95,80,-,good,Female,5'9 // 175 cm,160 lb // 72 kg,Blue,Red
+447,Metallo,90,55,25,95,90,65,John Corben,bad,Male,6'5 // 196 cm,200 lb // 90 kg,Green,Brown
+448,Metamorpho,70,85,70,95,95,80,Rex Mason,good,Male,6'1 // 185 cm,200 lb // 90 kg,Black,No Hair
+450,Metron,95,10,50,60,100,30,Metron,good,Male,6'1 // 185 cm,190 lb // 86 kg,Blue,Black
+451,Micah Sanders,85,10,15,15,60,15,Micah Sanders,good,Male,- // 0 cm,- lb // 0 kg,Brown,Black
+452,Michelangelo,85,15,50,65,60,75,-,good,Male,- // 0 cm,- lb // 0 kg,Blue,-
+453,Micro Lad,75,30,30,30,45,35,Gim Allon,good,Male,6' // 183 cm,170 lb // 77 kg,Grey,Brown
+454,Mimic,85,70,50,60,80,45,Calvin Montgomery Rankin,good,Male,6'2 // 188 cm,225 lb // 101 kg,Brown,Brown
+456,Misfit,85,35,25,80,95,45,Charlotte Gage-Radcliffe,good,Female,- // 0 cm,- lb // 0 kg,Blue,Red
+457,Miss Martian,85,85,60,100,100,45,M'gann M'orzz,good,Female,5'10 // 178 cm,135 lb // 61 kg,Red,Red
+458,Mister Fantastic,100,10,20,70,35,65,Reed Richards,good,Male,6'1 // 185 cm,180 lb // 81 kg,Brown,Brown
+459,Mister Freeze,90,35,15,70,40,30,Victor Fries,bad,Male,6'0 // 183 cm,190 lb // 86 kg,-,-
+460,Mister Knife,90,10,20,30,15,65,-,bad,Male,- // 0 cm,- lb // 0 kg,Blue,Brown
+461,Mister Mxyzptlk,100,85,100,100,100,50,Mr. Mxyzptlk,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+462,Mister Sinister,100,50,50,90,100,50,Dr. Nathaniel Essex,bad,Male,6'5 // 196 cm,285 lb // 128 kg,Red,Black
+463,Mister Zsasz,100,25,35,30,30,95,Victor Zsasz,bad,Male,5'8 // 173 cm,150 lb // 68 kg,Blue,Blond
+464,Mockingbird,90,35,40,20,50,95,Barbara Morse,good,Female,5'9 // 175 cm,135 lb // 61 kg,Blue,Blond
+465,MODOK,100,20,25,25,80,15,-,bad,Male,12'0 // 366 cm,750 lb // 338 kg,White,Brownn
+466,Mogo,80,85,85,95,95,70,Mogo,good,Male,- // 0 cm,- lb // 0 kg,-,-
+468,Molecule Man,85,100,70,90,100,70,-,bad,Male,5'7 // 170 cm,140 lb // 63 kg,Blue,Brown
+469,Moloch,75,40,35,40,70,45,Edgar William Jacobi,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+470,Molten Man,80,75,25,85,55,60,Mark Raxton,bad,Male,6'5 // 196 cm,550 lb // 248 kg,Gold,Gold
+471,Monarch,95,100,100,100,100,95,Nathaniel Christopher Adam,good,Male,6'4 // 193 cm,200 lb // 90 kg,Blue,White
+472,Monica Dawson,80,10,35,15,50,90,Monica Dawson,good,Female,- // 0 cm,- lb // 0 kg,-,-
+473,Moon Knight,80,40,25,45,30,75,Marc Spector,good,Male,6'2 // 188 cm,225 lb // 101 kg,Brown,Brown
+474,Moonstone,80,70,50,55,75,80,Dr. Karla Sofen,bad,Female,5'11 // 180 cm,130 lb // 59 kg,Blue,Blond
+475,Morlun,85,60,35,45,75,60,Morlun,bad,Male,6'2 // 188 cm,175 lb // 79 kg,White / Red,Black
+476,Morph,65,50,40,65,70,50,Kevin Sydney,good,Male,5'10 // 178 cm,175 lb // 79 kg,White,No Hair
+477,Moses Magnum,90,30,15,45,55,60,Moses Magnum,bad,Male,5'9 // 175 cm,159 lb // 72 kg,Brown,Black
+478,Mr Immortal,80,10,10,100,70,30,-,good,Male,6'2 // 188 cm,156 lb // 70 kg,Blue,Blond
+479,Mr Incredible,80,85,35,95,30,40,Robert Parr,good,Male,6'7 // 201 cm,350 lb // 158 kg,Blue,Blond
+480,Ms Marvel II,75,65,25,85,15,60,Sharon Ventura,good,Female,5'8 // 173 cm,135 lb // 61 kg,Blue,Red
+481,Multiple Man,85,15,25,70,30,65,James Arthur,good,Male,5'11' // 180 cm,155 lb // 70 kg,Blue,Brown
+482,Mysterio,95,10,20,40,85,70,Quentin Beck,bad,Male,5'11 // 180 cm,175 lb // 79 kg,Brown,No Hair
+483,Mystique,90,15,25,65,65,75,Raven Darkholme,bad,Female,5'10 // 178 cm,120 lb // 54 kg,Yellow (without irises),Red / Orange
+485,Namor,85,95,60,70,75,85,Namor McKenzie,good,Male,6'2 // 188 cm,278 lb // 125 kg,Grey,Black
+486,Namora,80,85,45,45,50,65,Aquaria Nautica Neptunia,good,Female,5'11 // 180 cm,189 lb // 85 kg,Blue,Blond
+487,Namorita,80,75,50,70,40,70,Namorita Prentiss,good,Female,5'6 // 168 cm,225 lb // 101 kg,Blue,Blond
+488,Naruto Uzumaki,75,90,75,80,100,100,-,good,Male,5'10 // 178 cm,121 lb // 54 kg,Blue,Yellow
+490,Nebula,85,55,15,50,45,60,-,bad,Female,6'1 // 185 cm,185 lb // 83 kg,Blue,No Hair
+491,Negasonic Teenage Warhead,80,10,10,10,45,35,-,good,Female,- // 0 cm,- lb // 0 kg,Black,Black
+492,Nick Fury,90,15,25,45,25,100,Nicholas Joseph Fury,good,Male,6'1 // 185 cm,221 lb // 99 kg,Brown,Brown / White
+493,Nightcrawler,80,10,50,15,80,80,Kurt Wagner,good,Male,5'9' // 175 cm,195 lb // 88 kg,Yellow,Indigo
+494,Nightwing,95,15,35,30,40,100,Richard John Grayson,good,Male,5'10 // 178 cm,175 lb // 79 kg,Blue,Black
+495,Niki Sanders,85,55,35,30,40,60,Nicole Sanders,good,Female,- // 0 cm,- lb // 0 kg,Blue,Blond
+496,Nina Theroux,85,5,10,10,70,20,-,good,Female,- // 0 cm,- lb // 0 kg,-,-
+497,Nite Owl II,85,45,40,40,50,80,Daniel Dreiberg,good,Male,- // 0 cm,- lb // 0 kg,-,-
+498,Northstar,80,20,85,60,65,70,Jean-Paul Beaubier,good,Male,5'11 // 180 cm,185 lb // 83 kg,Blue,Black
+499,Nova,100,85,75,100,100,80,Richard Rider,good,Male,6'1 // 185 cm,190 lb // 86 kg,Brown,Brown
+500,Nova,85,60,100,100,100,35,Frankie Raye,good,Female,5'4 // 163 cm,130 lb // 59 kg,White,Red
+501,Odin,100,85,70,95,100,90,-,good,Male,6'9 // 206 cm,650 lb // 293 kg,Blue,White
+502,Offspring,80,10,35,100,100,60,Luke O'Brian,good,Male,- // 0 cm,- lb // 0 kg,-,-
+503,Omega Red,70,70,50,85,70,90,Arkady Gregorivich,bad,Male,6'11 // 211 cm,425 lb // 191 kg,Red,Blond
+505,One Punch Man,65,100,95,100,70,65,-,good,Male,5'9 // 175 cm,154 lb // 69 kg,-,No Hair
+506,One-Above-All,100,100,100,100,100,100,-,neutral,-,- // 0 cm,- lb // 0 kg,-,-
+507,Onslaught,95,100,35,100,100,55,Onslaught,bad,Male,10'0 // 305 cm,900 lb // 405 kg,Red,No Hair
+508,Oracle,90,15,25,30,20,80,Barbara Gordon,good,Female,5'10 // 178 cm,132 lb // 59 kg,Blue,Red
+509,Osiris,90,85,60,95,65,45,Amon Tomaz,good,Male,- // 0 cm,- lb // 0 kg,Brown,Brown
+511,Ozymandias,100,20,35,20,50,95,Adrian Alexander Veidt,bad,Male,- // 0 cm,- lb // 0 kg,Blue,Blond
+512,Parademon,55,30,20,50,55,25,-,bad,-,- // 0 cm,- lb // 0 kg,-,-
+513,Paul Blart,50,15,25,50,10,5,-,good,Male,5'7 // 170 cm,260 lb // 117 kg,-,-
+516,Penance II,65,45,70,65,85,65,Robert Baldwin,good,Male,6' // 183 cm,197 lb // 89 kg,Blue,Blond
+517,Penguin,95,10,15,35,45,45,Oswald Chesterfield Cobblepot,bad,Male,5'2 // 157 cm,175 lb // 79 kg,Blue,Black
+518,Peter Petrelli,70,60,100,100,100,95,Peter Petrelli,good,Male,- // 0 cm,- lb // 0 kg,-,-
+519,Phantom,70,35,35,35,30,80,Christopher Walker,good,Male,- // 0 cm,- lb // 0 kg,-,-
+520,Phantom Girl,75,10,25,30,55,45,Tinya Wazzo,good,Female,5'6 // 168 cm,120 lb // 54 kg,Blue,Black
+521,Phantom Stranger,100,10,25,100,100,40,-,neutral,Male,6'2 // 188 cm,185 lb // 83 kg,Black,Black
+522,Phoenix,100,100,85,100,100,80,Jean Grey-Summers,good,Female,5'6 // 168 cm,115 lb // 52 kg,Green,Red
+523,Plantman,85,60,25,55,65,25,-,bad,Male,6'0 // 183 cm,193 lb // 87 kg,Green,Grey
+525,Plastic Man,80,65,25,100,100,60,Patrick O'Brian,good,Male,6'1 // 185 cm,178 lb // 80 kg,Blue,Black
+526,Plastique,80,10,25,30,60,45,Bette Sans Souci,bad,Female,5'6 // 168 cm,123 lb // 55 kg,Blue,Red
+527,Poison Ivy,95,15,30,70,100,70,Pamela Lillian Isley,bad,Female,5'6 // 168 cm,110 lb // 50 kg,Green,Red
+528,Polaris,85,75,45,50,100,45,Lorna Sally Dane,good,Female,5'7 // 170 cm,115 lb // 52 kg,Green,Green
+529,Power Girl,100,100,100,100,100,75,Kara Zor-L,good,Female,5'11 // 180 cm,180 lb // 81 kg,blue,blond
+530,Power Man,50,80,40,90,50,80,-,good,Male,- // 0 cm,- lb // 0 kg,-,-
+531,Predator,85,30,25,85,100,90,Yautja,bad,Male,7'0 // 213 cm,520 lb // 234 kg,-,-
+532,Professor X,100,10,15,15,100,35,Charles Francis Xavier,good,Male,6' // 183 cm,190 lb // 86 kg,Blue,No Hair
+533,Professor Zoom,100,10,100,20,85,20,Eobard Thawne,bad,Male,5'11 // 180 cm,179 lb // 81 kg,Blue,Strawberry Blond
+534,Proto-Goblin,85,40,25,50,25,30,Nels Van Adder,bad,Male,- // 0 cm,- lb // 0 kg,Green,Blond
+535,Psylocke,85,35,25,40,100,90,Elizabeth Braddock,good,Female,5'11 // 180 cm,155 lb // 70 kg,Blue,Purple
+536,Punisher,85,20,25,45,45,100,Francis Castiglione,good,Male,6'0' // 183 cm,200 lb // 90 kg,Blue,Black
+537,Purple Man,80,10,10,30,95,10,Zebediah Killgrave,bad,Male,5'11 // 180 cm,165 lb // 74 kg,Purple,Purple
+538,Pyro,75,10,15,15,55,30,St. John Allerdyce,bad,Male,5'10 // 178 cm,150 lb // 68 kg,Blue,Blond
+539,Q,100,15,20,100,100,40,-,-,Male,- // 0 cm,- lb // 0 kg,-,-
+540,Quake,90,40,50,45,85,90,Daisy Louise Johnson,good,Female,5'4 // 163 cm,115 lb // 52 kg,Brown,Black
+542,Question,95,15,30,35,20,80,Charles Victor Szasz,good,Male,6'2 // 188 cm,185 lb // 83 kg,Blue,Blond
+543,Quicksilver,85,30,100,60,85,60,Pietro Django Maximoff,good,Male,6'0 // 183 cm,175 lb // 79 kg,Blue,Silver
+544,Quill,75,10,15,15,25,15,Maxwell Jordan,good,Male,5'4 // 163 cm,124 lb // 56 kg,Brown,Brown
+545,Ra's Al Ghul,100,30,35,45,30,100,Ra's Al Ghul,bad,Male,6'4 // 193 cm,215 lb // 97 kg,Green,Grey
+546,Rachel Pirzad,85,5,10,10,55,10,-,good,Female,- // 0 cm,- lb // 0 kg,-,-
+547,Raphael,85,20,50,65,60,80,-,good,Male,- // 0 cm,- lb // 0 kg,-,No Hair
+548,Raven,80,10,30,70,85,40,Rachel Roth,neutral,Female,5'5 // 165 cm,110 lb // 50 kg,Indigo,Black
+549,Ray,80,10,95,100,100,20,Raymond C. Terrill,good,Male,5'10 // 178 cm,155 lb // 70 kg,Green,Red
+550,Razor-Fist II,70,85,80,80,85,100,Douglas Scott,bad,Male,6'3 // 191 cm,260 lb // 117 kg,Blue,No Hair
+551,Red Arrow,85,20,25,20,25,80,"Roy William Harper, Jr.",good,Male,5'11 // 180 cm,185 lb // 83 kg,Green,Red
+552,Red Hood,90,15,25,30,35,95,Jason Peter Todd,neutral,Male,6'0 // 183 cm,180 lb // 81 kg,Blue,Black
+553,Red Hulk,80,100,50,85,85,75,Thaddeus E. Ross,neutral,Male,7'0 // 213 cm,1400 lb // 630 kg,Yellow,Black
+554,Red Mist,65,10,25,15,20,60,Chris Genovese,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+555,Red Robin,95,15,30,35,30,80,Timothy Jackson Drake,good,Male,5'5 // 165 cm,125 lb // 56 kg,Blue,Black
+556,Red Skull,90,10,15,15,20,80,Johann Shmidt,bad,Male,6'2 // 188 cm,240 lb // 108 kg,Blue,No Hair
+557,Red Tornado,90,40,70,60,100,40,John Smith,good,Male,6'1 // 185 cm,325 lb // 146 kg,Green,No Hair
+561,Rey,85,10,25,10,90,35,-,good,Female,5'57 // 297 cm,- lb // 0 kg,Hazel,Brown
+562,Rhino,65,80,45,90,40,85,Aleksei Mikhailovich Sytsevich,bad,Male,6'5 // 196 cm,710 lb // 320 kg,Brown,Brown
+563,Rick Flag,95,15,25,30,20,95,Richard Rogers Flag,bad,Male,6'1 // 185 cm,189 lb // 85 kg,Blue,Brown
+564,Riddler,100,10,15,15,10,15,Edward Nigma,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+565,Rip Hunter,100,10,10,10,100,25,-,good,Male,- // 0 cm,- lb // 0 kg,Blue,Blond
+567,Robin,95,15,30,30,35,85,Richard John Grayson,good,Male,5'10 // 178 cm,175 lb // 79 kg,Blue,Black
+568,Robin II,90,15,30,30,30,85,Jason Peter Todd,good,Male,6'0 // 183 cm,225 lb // 101 kg,Blue,Red
+569,Robin III,95,15,30,30,30,85,Timothy Jackson Drake,good,Male,5'5 // 165 cm,125 lb // 56 kg,Blue,Black
+570,Robin V,85,10,35,20,30,65,Damian Wayne,good,Male,4'6 // 137 cm,84 lb // 38 kg,Blue,Black
+571,Robin VI,80,10,25,20,20,70,Carrie Kelley,neutral,Female,- // 0 cm,- lb // 0 kg,Green,Red
+572,Robocop,90,35,15,80,55,50,Alexander James Murphy,good,Male,6'2 // 188 cm,- lb // 0 kg,-,-
+573,Rocket Raccoon,80,5,25,30,30,65,Rocket Raccoon,good,Male,4'0 // 122 cm,55 lb // 25 kg,Brown,Brown
+574,Rogue,90,10,15,30,80,80,Anna Marie,good,Female,5'8 // 173 cm,120 lb // 54 kg,Green,Brown / White
+575,Ronin,80,15,25,10,15,80,Clinton Francis Barton,good,Male,6'3 // 191 cm,230 lb // 104 kg,Blue,Blond
+576,Rorschach,90,10,30,20,25,80,Walter Joseph Kovacs,good,Male,5'6 // 168 cm,140 lb // 63 kg,Blue,Red
+577,Sabretooth,80,50,40,90,50,100,Victor Creed,bad,Male,6'6 // 198 cm,380 lb // 171 kg,Amber,Blond
+578,Sage,90,10,15,15,30,60,Tessa,good,Female,5'7' // 170 cm,135 lb // 61 kg,Blue,Black
+579,Sandman,80,75,50,95,100,60,-,neutral,Male,6'1 // 185 cm,450 lb // 203 kg,Brown,Brown
+580,Sasquatch,90,80,25,60,15,45,Walter Langkowski,good,Male,10' // 305 cm,2000 lb // 900 kg,Red,Orange
+581,Saturn Girl,95,10,50,20,90,25,Imra Ardeen-Ranzz,good,Female,5'7 // 170 cm,130 lb // 59 kg,Blue,Blond
+582,Sauron,95,85,35,100,100,70,-,bad,Male,9'2 // 279 cm,- lb // 0 kg,-,-
+583,Savage Dragon,85,70,55,85,70,75,Kurr,good,Male,- // 0 cm,- lb // 0 kg,-,-
+584,Scarecrow,95,10,15,15,50,50,Jonathan Crane,bad,Male,6'0 // 183 cm,140 lb // 63 kg,Blue,Brown
+585,Scarlet Spider,90,55,60,75,50,60,Benjamin Reilly,good,Male,5'10' // 178 cm,165 lb // 74 kg,Blue,Blond
+586,Scarlet Spider II,95,55,60,40,40,60,Kaine Parker,good,Male,6'4 // 193 cm,250 lb // 113 kg,Brown,Brown
+587,Scarlet Witch,100,10,30,70,100,80,Wanda Maximoff,bad,Female,5'7 // 170 cm,132 lb // 59 kg,Blue,Brown
+588,Scorpia,75,30,45,30,35,30,Elaine Coll,bad,Female,- // 0 cm,- lb // 0 kg,Green,Red
+589,Scorpion,80,55,60,85,50,80,MacDonald Gargan,bad,Male,6'11 // 211 cm,689 lb // 310 kg,Brown,Brown
+590,Sebastian Shaw,85,85,15,95,40,60,Sebastian Hiram Shaw,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+591,Sentry,90,100,100,100,100,45,Robert Reynolds,good,Male,6'2 // 188 cm,194 lb // 87 kg,Blue,Blond
+592,Shadow King,90,15,30,100,100,75,Amahl Farouk,good,-,6'1 // 185 cm,330 lb // 149 kg,Red,-
+593,Shadow Lass,85,10,70,20,80,80,-,good,Female,5'8 // 173 cm,120 lb // 54 kg,Black,Black
+594,Shadowcat,95,10,25,25,70,70,Katherine Pryde,good,Female,5'6 // 168 cm,110 lb // 50 kg,Hazel,Brown
+595,Shang-Chi,85,15,30,50,30,100,Shang-Chi,good,Male,5'10 // 178 cm,175 lb // 79 kg,Brown,Black
+596,Shatterstar,85,50,45,65,50,85,Gaveedra Seven,good,Male,6'3 // 191 cm,195 lb // 88 kg,Brown,Red
+597,Shazam,95,100,90,95,100,75,William Joseph Batson,good,Male,6'4 // 193 cm,225 lb // 101 kg,Blue,Black
+598,She-Hulk,95,100,45,100,40,70,Jennifer Walters,good,Female,6'7 // 201 cm,700 lb // 315 kg,Green,Green
+599,She-Ra,90,100,45,70,100,70,-,good,Female,- // 0 cm,- lb // 0 kg,-,-
+600,She-Thing,85,75,25,80,25,65,Sharon Ventura,good,Female,6'0 // 183 cm,340 lb // 153 kg,Blue,No Hair
+601,Shocker,85,10,25,70,80,60,Herman Schultz,bad,Male,5'9 // 175 cm,175 lb // 79 kg,Brown,Brown
+602,Shriek,80,10,25,30,45,45,Frances Louise Barrison,good,Female,5'8 // 173 cm,115 lb // 52 kg,Yellow / Blue,Black
+604,Sif,85,90,70,80,100,70,Sif,good,Female,6'2 // 188 cm,425 lb // 191 kg,Blue,Black
+605,Silk,90,50,75,70,75,65,-,good,Female,- // 0 cm,- lb // 0 kg,Brown,Black
+607,Silk Spectre II,85,50,70,55,50,90,Laurie Juspeczyk,good,Female,- // 0 cm,- lb // 0 kg,-,-
+608,Silver Surfer,80,100,100,90,100,35,Norrin Radd,good,Male,6'4 // 193 cm,225 lb // 101 kg,White,No Hair
+609,Silverclaw,80,30,35,45,35,45,Maria de Guadalupe Santiago,good,Female,5'2 // 157 cm,110 lb // 50 kg,Brown,Black
+610,Sinestro,90,85,55,65,100,55,Thaal Sinestro,neutral,Male,6'7 // 201 cm,205 lb // 92 kg,Black,Black
+611,Siren,80,65,80,60,95,60,Hila,bad,Female,5'9 // 175 cm,160 lb // 72 kg,Blue,Purple
+613,Siryn,75,10,50,30,50,45,Theresa Rourke Cassidy,bad,Female,5'6 // 168 cm,115 lb // 52 kg,Blue,Strawberry Blond
+614,Skaar,80,85,30,90,70,85,-,good,Male,6'6 // 198 cm,400 lb // 180 kg,Green,Black
+616,Snowbird,80,35,30,45,70,55,Narya,good,Female,5'10' // 178 cm,108 lb // 49 kg,White,Blond
+617,Sobek,80,35,25,50,20,60,Yurrd the Unknown,good,Male,- // 0 cm,- lb // 0 kg,White,No Hair
+618,Solomon Grundy,55,95,15,100,95,30,Cyrus Gold,bad,Male,9'2 // 279 cm,971 lb // 437 kg,Black,White
+619,Songbird,90,40,30,45,55,60,Melissa Joan Gold,good,Female,5'5 // 165 cm,145 lb // 65 kg,Green,Red / White
+620,Space Ghost,75,20,35,40,95,80,Thaddeus Bach,good,Male,6'2 // 188 cm,250 lb // 113 kg,-,-
+621,Spawn,90,75,50,100,100,100,Al Simmons,good,Male,6'11 // 211 cm,900 lb // 405 kg,Brown,Black
+622,Spectre,95,100,100,100,100,70,-,good,Male,- // 0 cm,- lb // 0 kg,White,No Hair
+625,Speedy,80,10,35,20,30,70,Thea Dearden Queen,good,Female,- // 0 cm,- lb // 0 kg,Green,Brown
+626,Spider-Carnage,65,75,70,75,70,75,Benjamin Reilly,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+627,Spider-Girl,85,40,60,65,55,75,May 'Mayday' Parker,good,Female,5'7 // 170 cm,119 lb // 54 kg,Blue,Brown
+628,Spider-Gwen,90,55,65,70,70,70,Gwendolyne Stacy,good,Female,5'5 // 165 cm,125 lb // 56 kg,Blue,Blond
+629,Spider-Man,100,55,70,75,75,95,Peter Benjamin Parker,good,Male,5'10 // 178 cm,165 lb // 74 kg,Hazel,Brown
+630,Spider-Man,85,65,75,70,70,75,-,good,-,5'10 // 178 cm,170 lb // 77 kg,Red,Brown
+631,Spider-Man,65,65,70,65,70,70,-,good,Male,5'2 // 157 cm,125 lb // 56 kg,Brown,Black
+632,Spider-Woman,80,45,45,60,70,70,Jessica Drew,good,Female,5'10 // 178 cm,130 lb // 59 kg,Green,Black
+634,Spider-Woman III,80,50,30,45,60,30,Martha Franklin,good,Female,5'8 // 173 cm,123 lb // 55 kg,Brown,Brown
+636,Spock,95,20,20,40,60,40,-,good,Male,6'1 // 185 cm,180 lb // 81 kg,Brown,Black
+637,Spyke,80,15,20,60,50,30,Evan Daniels,good,Male,6'0 // 183 cm,185 lb // 83 kg,Brown,Blond
+639,Star-Lord,85,20,35,50,25,70,Peter Jason Quill,good,Male,6'2 // 188 cm,175 lb // 79 kg,Blue,Blond
+640,Stardust,95,85,100,100,100,85,-,good,Male,- // 0 cm,- lb // 0 kg,-,-
+641,Starfire,80,80,35,85,60,70,Koriand'r,good,Female,6'4 // 193 cm,158 lb // 71 kg,Green,Auburn
+642,Stargirl,85,80,50,90,90,70,Courtney Whitmore,good,Female,5'5 // 165 cm,137 lb // 62 kg,Blue,Blond
+643,Static,85,10,45,50,90,40,Virgil Ovid Hawkins,good,Male,5'7 // 170 cm,140 lb // 63 kg,Brown,Black
+644,Steel,95,85,55,90,65,65,John Henry Irons,good,Male,6'7 // 201 cm,290 lb // 131 kg,Brown,No Hair
+645,Stephanie Powell,85,10,55,10,25,10,Stephanie Powell,good,Female,- // 0 cm,- lb // 0 kg,-,Blond
+646,Steppenwolf,100,100,85,100,100,100,-,bad,Male,6'0 // 183 cm,203 lb // 91 kg,Red,Black
+647,Storm,90,10,50,30,90,75,Ororo Munroe,good,Female,5'11 // 180 cm,127 lb // 57 kg,Blue,White
+648,Stormtrooper,60,10,10,15,5,20,-,bad,Male,6'0 // 183 cm,- lb // 0 kg,-,-
+649,Sunspot,85,65,35,25,90,70,Roberto DaCosta,good,Male,5'8 // 173 cm,170 lb // 77 kg,brown,black
+650,Superboy,90,95,85,90,95,60,Kon-El / Conner Kent,good,Male,5'7 // 170 cm,150 lb // 68 kg,Blue,Black
+651,Superboy-Prime,100,100,100,100,100,85,Kal-El,bad,Male,5'11 // 180 cm,170 lb // 77 kg,Blue,Black / Blue
+652,Supergirl,100,100,100,100,100,75,Kara Zor-El,good,Female,5'5 // 165 cm,120 lb // 54 kg,Blue,Blond
+653,Superman,100,100,100,100,100,85,Clark Joseph Kent (Kal-El),good,Male,6'3 // 191 cm,225 lb // 101 kg,Blue,Black
+654,Surtur,95,100,60,100,100,80,-,bad,Male,1000 // 304.8 meters,- lb // 0 kg,Yellow,Red
+655,Swamp Thing,95,95,25,100,100,55,Alec Holland,bad,Male,- // 0 cm,- lb // 0 kg,Red,No Hair
+656,Swarm,90,20,50,90,40,35,Fritz von Meyer,bad,Male,6'5 // 196 cm,104 lb // 47 kg,Yellow,No Hair
+657,Sylar,90,10,15,25,85,85,Gabriel Gray,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+658,Synch,90,70,25,30,75,60,Everett Thomas,good,Male,5'11 // 180 cm,165 lb // 74 kg,Brown,Black
+659,T-1000,90,35,35,100,100,75,Cyberdyne Systems Series 1000 Terminator,bad,Male,6'0 // 183 cm,325 lb // 146 kg,-,-
+660,T-800,90,35,20,60,75,65,Cyberdyne Systems Series 800 Terminator Model 101,bad,Male,- // 0 cm,390 lb // 176 kg,Red,-
+661,T-850,90,80,25,90,85,75,Cyberdyne Systems Series 850 Terminator,bad,Male,- // 0 cm,440 lb // 198 kg,Red,-
+662,T-X,90,65,30,85,100,80,Cyberdyne Systems Series X Terminator,bad,Female,- // 0 cm,330 lb // 149 kg,-,-
+663,Taskmaster,90,15,50,20,65,100,-,bad,Male,6'2 // 188 cm,220 lb // 99 kg,Brown,Brown
+664,Tempest,75,10,45,30,70,60,Angel Salvadore Bohusk,good,Female,5'4 // 163 cm,121 lb // 54 kg,Brown,Black
+665,Thanos,100,100,35,100,100,80,Thanos,bad,Male,6'7 // 201 cm,985 lb // 443 kg,Red,No Hair
+666,Thanos (Infinity Gauntlet),100,100,35,100,100,80,-,bad,Male,6'7 // 201 cm,985 lb // 443 kg,Red,No Hair
+667,The Comedian,85,15,20,10,15,80,Edward Morgen Blake,neutral,Male,6'2 // 188 cm,225 lb // 101 kg,Brown,Black
+668,The Presence,100,100,100,100,100,100,-,neutral,Male,- // 0 cm,- lb // 0 kg,-,-
+669,Thing,90,85,25,100,40,80,Benjamin Jacob Grimm,good,Male,6'0 // 183 cm,500 lb // 225 kg,Blue,No Hair
+670,Thor,85,100,85,100,100,100,Thor Odinson,good,Male,6'6 // 198 cm,640 lb // 288 kg,Blue,Blond
+671,Thor Girl,90,85,70,85,100,70,Tarene,good,Female,5'9 // 175 cm,317 lb // 143 kg,Blue,Blond
+672,Thunderbird,80,35,30,35,15,70,John Proudstar,good,Male,6'1 // 185 cm,225 lb // 101 kg,Brown,Black
+675,Thunderstrike,85,80,70,85,45,75,Eric Kevin Masterson,good,Male,6'6 // 198 cm,640 lb // 288 kg,Blue,Blond
+676,Thundra,75,85,35,65,30,55,Thundra,good,Female,7'2 // 218 cm,350 lb // 158 kg,Green,Red
+677,Tiger Shark,75,75,50,70,55,30,Todd Arliss,bad,Male,6'1 // 185 cm,450 lb // 203 kg,Grey,No Hair
+678,Tigra,85,35,55,40,35,90,Greer Grant Nelson,good,Female,5'10 // 178 cm,180 lb // 81 kg,Green,Auburn
+679,Tinkerer,100,10,25,15,10,15,Phineas Mason,bad,Male,5'4 // 163 cm,120 lb // 54 kg,Brown,White
+681,Toad,80,35,60,60,70,30,Mortimer Toynbee,neutral,Male,5'9 // 175 cm,169 lb // 76 kg,Black,Brown
+682,Toxin,80,75,70,85,85,70,Patrick Mulligan,good,Male,6'2 // 188 cm,215 lb // 97 kg,Blue,Brown
+683,Toxin,90,80,45,85,100,70,Edward Charles Allan Brock,good,Male,6'3 // 191 cm,260 lb // 117 kg,Black,Blond
+684,Tracy Strauss,80,55,65,95,90,60,Tracy Strauss,good,Female,- // 0 cm,- lb // 0 kg,-,-
+686,Trigon,95,100,85,100,100,80,-,bad,Male,- // 0 cm,- lb // 0 kg,Yellow,Black
+687,Triplicate Girl,85,10,25,45,45,45,Luornu Durgo,good,Female,5'6 // 168 cm,130 lb // 59 kg,Purple,Brown
+688,Triton,80,65,50,65,35,55,-,good,Male,6'2 // 188 cm,190 lb // 86 kg,Green,No Hair
+689,Two-Face,95,10,15,15,10,30,Harvey Dent,bad,Male,6'0 // 183 cm,182 lb // 82 kg,-,-
+690,Ultragirl,80,80,35,70,35,80,Tsu-Zana,good,Female,5'6 // 168 cm,233 lb // 105 kg,Blue,Blond
+691,Ultron,95,85,45,100,100,65,Ultron,bad,Male,6'9 // 206 cm,735 lb // 331 kg,Red,-
+692,Utgard-Loki,80,80,25,85,85,65,-,bad,Male,50'0 // 15.2 meters,128000 lb // 58 tons,Blue,White
+695,Valkyrie,75,85,75,85,75,95,Brunnhilde,good,Female,6'3 // 191 cm,475 lb // 214 kg,Blue,Blond
+696,Vanisher,85,10,75,60,65,45,-,bad,Male,5'5 // 165 cm,175 lb // 79 kg,Green,No Hair
+697,Vegeta,95,100,95,95,100,100,-,bad,Male,5'6 // 168 cm,163 lb // 73 kg,-,Black
+698,Venom,90,60,65,85,90,85,Edward Charles Allan Brock,bad,Male,6'3 // 191 cm,260 lb // 117 kg,Blue,Strawberry Blond
+699,Venom II,80,60,50,70,55,60,Angelo Fortunato,bad,Male,5'9 // 175 cm,110 lb // 50 kg,Brown,Black
+700,Venom III,85,75,35,90,75,60,MacDonald Gargan,bad,Male,7'6 // 229 cm,742 lb // 334 kg,Brown,Brown
+701,Venompool,85,60,65,100,100,100,-,-,Male,7'5 // 226 cm,- lb // 0 kg,-,-
+703,Vibe,80,10,20,30,100,30,Francisco Paco Ramon,good,Male,5'10 // 178 cm,157 lb // 71 kg,Brown,Black
+704,Vindicator,85,65,55,65,60,70,Heather McNeil Hudson,good,Female,5'5 // 165 cm,120 lb // 54 kg,Green,Red
+706,Violator,55,65,25,80,85,30,-,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+707,Violet Parr,80,10,15,50,80,15,Violet Parr,good,Female,4'6 // 137 cm,90 lb // 41 kg,Violet,Black
+708,Vision,100,75,55,95,100,70,Vision,good,Male,6'3 // 191 cm,300 lb // 135 kg,Gold,No Hair
+710,Vixen,80,40,50,50,65,25,Mari Jiwe McCabe,good,Female,5'9 // 175 cm,140 lb // 63 kg,Amber,Black
+711,Vulcan,70,70,75,90,100,75,Gabriel Summers,good,Male,- // 0 cm,- lb // 0 kg,Black,Black
+712,Vulture,90,25,45,25,30,30,Adrian Toomes,bad,Male,5'11 // 180 cm,175 lb // 79 kg,Brown,No Hair
+713,Walrus,80,30,10,50,15,20,Hubert Carpent,bad,Male,6'0 // 183 cm,360 lb // 162 kg,Blue,Black
+714,War Machine,85,80,65,100,100,85,James Rupert Rhodes,good,Male,6'1 // 185 cm,210 lb // 95 kg,Brown,Brown
+716,Warlock,95,40,80,95,75,95,Adam Warlock,good,Male,6'2' // 188 cm,240 lb // 108 kg,Red,Blond
+717,Warp,75,10,25,30,85,50,Emil LaSalle,bad,Male,5'8 // 173 cm,148 lb // 67 kg,Brown,Black
+718,Warpath,75,75,50,70,30,85,James Proudstar,good,Male,7'2 // 218 cm,350 lb // 158 kg,Brown,Black
+719,Wasp,85,20,60,55,30,45,Janet Van Dyne,good,Female,5'4 // 163 cm,110 lb // 50 kg,Blue,Auburn
+720,Watcher,100,80,70,90,100,60,Uatu,good,Male,- // 0 cm,- lb // 0 kg,-,-
+721,Weapon XI,80,65,65,100,95,100,Weapon XI,bad,Male,- // 0 cm,- lb // 0 kg,-,-
+722,White Canary,85,10,35,15,50,90,-,bad,Female,- // 0 cm,- lb // 0 kg,Brown,Black
+723,White Queen,80,45,45,70,65,45,Emma Grace Frost,good,Female,5'10' // 178 cm,144 lb // 65 kg,Blue,Blond
+724,Wildfire,80,35,25,100,80,45,Drake Burroughs,good,Male,- // 0 cm,- lb // 0 kg,-,-
+725,Winter Soldier,80,35,35,65,60,85,James Buchanan Barnes,good,Male,5'9 // 175 cm,260 lb // 117 kg,Brown,Brown
+727,Wolfsbane,75,20,35,45,30,45,Rahne Sinclair,good,Female,12' // 366 cm,1050 lb // 473 kg,Green,Auburn
+728,Wolverine,85,35,50,100,90,100,James Howlett,good,Male,5'3 // 160 cm,300 lb // 135 kg,Blue,Black
+729,Wonder Girl,90,90,25,80,40,60,Cassandra Elizabeth Sandsmark,good,Female,5'5 // 165 cm,114 lb // 51 kg,Blue,Blond
+730,Wonder Man,90,100,55,90,65,65,Simon Williams,good,Male,6'2 // 188 cm,380 lb // 171 kg,Red,Black
+731,Wonder Woman,95,100,80,100,100,100,Diana of Themyscira,good,Female,6'0 // 183 cm,165 lb // 74 kg,Blue,Black
+733,Wyatt Wingfoot,60,10,15,5,5,60,Wyatt Wingfoot,good,Male,6'5' // 196 cm,260 lb // 117 kg,Brown,Black
+734,X-23,90,25,45,100,55,95,Laura Kinney,good,Female,5'1 // 155 cm,110 lb // 50 kg,Green,Black
+735,X-Man,95,55,55,95,100,85,Nate Grey,good,Male,5'9 // 175 cm,135 lb // 61 kg,Blue,Brown
+737,Yellowjacket,95,10,15,30,15,15,Henry Jonathan Pym,good,Male,6' // 183 cm,185 lb // 83 kg,Blue,Blond
+738,Yellowjacket II,80,10,35,30,35,30,Rita DeMara,good,Female,5'5 // 165 cm,115 lb // 52 kg,Blue,Strawberry Blond
+739,Ymir,80,100,30,100,100,30,Ymir,good,Male,1000 // 304.8 meters,- lb // 0 kg,White,No Hair
+740,Yoda,95,55,35,25,100,90,Yoda,good,Male,2'2 // 66 cm,38 lb // 17 kg,Brown,White
+741,Zatanna,95,10,25,30,100,60,Zatanna Zatara,good,Female,5'7 // 170 cm,127 lb // 57 kg,Blue,Black
+742,Zoom,80,10,100,30,100,30,Hunter Zolomon,bad,Male,6'1 // 185 cm,181 lb // 81 kg,Red,Brown

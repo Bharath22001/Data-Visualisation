@@ -35,7 +35,7 @@ function TechDiversityGender() {
   this.midX = (this.layout.plotWidth() / 2) + this.layout.leftMargin;
 
   // Default visualisation colours.
-  this.femaleColour = color(255, 0 ,0);
+  this.femaleColour = color(255, 0, 0);
   this.maleColour = color(0, 255, 0);
 
   // Property to represent whether data has been loaded.
@@ -64,10 +64,6 @@ function TechDiversityGender() {
   };
 
   this.draw = function() {
-    if (!this.loaded) {
-      console.log('Data not yet loaded');
-      return;
-    }
 
     // Draw Female/Male labels at the top of the plot.
     this.drawCategoryLabels();
@@ -75,14 +71,31 @@ function TechDiversityGender() {
     var lineHeight = (height - this.layout.topMargin) /
         this.data.getRowCount();
 
-    for (var i = 0; i < this.data.getRowCount(); i++) {
+    let hoveredCompany = null;
 
-      // Calculate the y position for each company.
+    // Check which company is hovered
+    for (var i = 0; i < this.data.getRowCount(); i++) {
       var lineY = (lineHeight * i) + this.layout.topMargin;
 
-      // Create an object that stores data from the current row.
       var company = {
-        // Convert strings to numbers.
+        'name': this.data.getString(i, 'company'),
+        'female': this.data.getNum(i, 'female'),
+        'male': this.data.getNum(i, 'male'),
+      };
+
+      if (mouseX >= this.layout.leftMargin &&
+          mouseX <= this.layout.leftMargin + this.mapPercentToWidth(company.female) + this.mapPercentToWidth(company.male) &&
+          mouseY >= lineY &&
+          mouseY <= lineY + lineHeight) {
+        hoveredCompany = i;
+      }
+    }
+
+    // Draw each company with the appropriate fill color
+    for (var i = 0; i < this.data.getRowCount(); i++) {
+      var lineY = (lineHeight * i) + this.layout.topMargin;
+
+      var company = {
         'name': this.data.getString(i, 'company'),
         'female': this.data.getNum(i, 'female'),
         'male': this.data.getNum(i, 'male'),
@@ -96,19 +109,35 @@ function TechDiversityGender() {
            this.layout.leftMargin - this.layout.pad,
            lineY);
 
-      // Draw female employees rectangle.
-      fill(this.femaleColour);
+      // Determine fill colors based on hover state
+      if (hoveredCompany === null || hoveredCompany === i) {
+        fill(this.femaleColour);
+      } else {
+        fill(255, 0, 0, 100); // Dimming effect
+      }
       rect(this.layout.leftMargin,
            lineY,
            this.mapPercentToWidth(company.female),
            lineHeight - this.layout.pad);
 
-      // Draw male employees rectangle.
-      fill(this.maleColour);
+      if (hoveredCompany === null || hoveredCompany === i) {
+        fill(this.maleColour);
+      } else {
+        fill(0, 255, 0, 100); // Dimming effect
+      }
       rect(this.layout.leftMargin + this.mapPercentToWidth(company.female),
            lineY,
            this.mapPercentToWidth(company.male),
            lineHeight - this.layout.pad);
+        
+      // Display text with gender numbers if hovered
+      if (hoveredCompany === i) {
+        fill(0);
+        textAlign('center', 'center');
+        text('Female: ' + company.female + '||' + 'Male: ' + company.male,
+             mouseX,
+             mouseY);
+      }
     }
 
     // Draw 50% line

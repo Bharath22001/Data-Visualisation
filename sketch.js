@@ -18,7 +18,11 @@ function setup() {
   gallery.addVisual(new PayGapByJob2017());
   gallery.addVisual(new PayGapTimeSeries());
   gallery.addVisual(new ClimateChange());
+  gallery.addVisual(new ObesityHeatMap()); 
+  gallery.addVisual(new BabyNamesBubbleChart());
+  gallery.addVisual(new SuperheroRadarChart());  
 }
+
 
 function draw() {
   background(255);
